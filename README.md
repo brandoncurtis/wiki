@@ -1,2 +1,2 @@
-# wiki
-the BC Wiki
+The BC Wiki
+===========
