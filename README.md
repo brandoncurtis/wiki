@@ -1,0 +1,2 @@
+# wiki
+the BC Wiki
