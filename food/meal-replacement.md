@@ -1,4 +1,5 @@
 ---
+permalink: meal-replacement
 ---
 
 |BC| Recipe - Meal Replacements
