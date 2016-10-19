@@ -8,7 +8,7 @@ BC Wiki: DIY
 + [amateur-radio](amateur-radio)
 + [arduino](arduino)
 + [audio](audio)
-+ [diy-nmr-spectroscopy](diy-nmr-spectroscopy)
++ [nmr-spectroscopy](nmr-spectroscopy)
 + [flyback-drivers](flyback-drivers)
 + [high-voltage-components](high-voltage-components)
 + [index](index)
