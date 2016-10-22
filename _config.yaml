@@ -5,5 +5,5 @@ timezone: America/Los_Angeles
 baseurl: "/wiki"
 
 collections:
-  wikipage:
+  wikipages:
     output: true
