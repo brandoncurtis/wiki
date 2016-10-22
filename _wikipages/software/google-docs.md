@@ -1,7 +1,8 @@
-----
+---
+template: default
 title: Google Docs
 permalink: software/google-docs
-----
+---
 
 BC Wiki: Google Docs
 ====================

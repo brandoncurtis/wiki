@@ -1,4 +1,6 @@
 ---
+template: default
+title: Meal Replacement Experiments
 permalink: food/meal-replacement
 ---
 
