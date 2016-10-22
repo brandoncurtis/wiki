@@ -1,13 +1,11 @@
 ---
 layout: default
-title: BC Wiki
+title: Hank Quinlan's Blog
 ---
+	<h1>{{ page.title }}</h1>
+	<ul class="wikipages">
 
-The BC Wiki
-===========
-
-Table of Contents
------------------
-
-+   [Food](food)
-+   [DIY](diy)
+	  {% for wikipage in site.wikipages %}
+	    <li><span>{{ wikipage.date | date_to_string }}</span> » <a href="{{ wikipage.url }}" title="{{ wikipage.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>

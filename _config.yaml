@@ -7,3 +7,5 @@ baseurl: "/wiki"
 collections:
   wikipages:
     output: true
+  wikihubs:
+    output: true
