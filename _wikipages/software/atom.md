@@ -5,9 +5,6 @@ permalink: software/atom
 category: software
 ---
 
-BC Wiki: Atom Text Editor
-=========================
-
 ### My Packages
 
 accessible via `apm list --installed --bare`

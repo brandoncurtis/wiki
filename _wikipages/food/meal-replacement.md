@@ -5,10 +5,6 @@ permalink: food/meal-replacement
 category: food
 ---
 
-|BC| Recipe - Meal Replacements
-===============================
-
-
 Jacob's Recipe, 2016 Week 18
 <pre>
 1	whey

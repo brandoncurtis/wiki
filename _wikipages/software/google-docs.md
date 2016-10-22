@@ -5,9 +5,6 @@ permalink: software/google-docs
 category: software
 ---
 
-BC Wiki: Google Docs
-====================
-
 Google Spreadsheets
 -------------------
 
