@@ -8,6 +8,8 @@ permalink: software
 	<ul class="wikipages">
 
 	  {% for wikipage in site.wikipages %}
+    {% if wikipage.category == 'software' %}
 	    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+    {% endif %}
 	  {% endfor %}
 	</ul>

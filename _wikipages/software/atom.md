@@ -1,18 +1,18 @@
-----
-title: Atom Text Editor
-permalink: software/atom
-----
+---
+Title: Atom Text Editor
+Permalink: software/atom
+Category: software
+---
 
 BC Wiki: Atom Text Editor
 =========================
 
 ### My Packages
 
-```
-### PACKAGES
-
 accessible via `apm list --installed --bare`
 
+
+```
 atom-beautify@0.29.13
 atom-wrap-in-tag@0.6.0
 autocomplete-clang@0.10.0
