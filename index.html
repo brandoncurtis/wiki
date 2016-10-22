@@ -5,7 +5,7 @@ title: BC Wiki
 	<h1>{{ page.title }}</h1>
 	<ul class="wikipages">
 
-	  {% for wikipage in site.wikipages %}
-	    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+	  {% for wikihub in site.wikihubs %}
+	    <li> » <a href="{{ site.baseurl }}{{ wikihub.url }}" title="{{ wikihub.title }}">{{ wikihub.title }}</a></li>
 	  {% endfor %}
 	</ul>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: BC Wiki - DIY Hub
+permalink: diy
+---
+
+	<h1>{{ page.title }}</h1>
+	<ul class="wikipages">
+
+	  {% for wikipage in site.wikipages %}
+	    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+	  {% endfor %}
+	</ul>
