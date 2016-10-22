@@ -3,3 +3,7 @@ markdown: kramdown
 encoding: utf-8
 timezone: America/Los_Angeles
 baseurl: "/wiki"
+
+collections:
+  wikipage:
+    output: true
