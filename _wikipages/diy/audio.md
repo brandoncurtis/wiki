@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Audio
 permalink: diy/audio
 ---

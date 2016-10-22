@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Atom Text Editor
 permalink: software/atom
 category: software

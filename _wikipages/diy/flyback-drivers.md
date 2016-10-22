@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Flyback Drivers
 permalink: diy/flyback-drivers
 ---

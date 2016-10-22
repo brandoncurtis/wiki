@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Learn To Code
 permalink: diy/learn-to-code
 ---

@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Raspberry Pi
 permalink: diy/raspberry-pi
 ---

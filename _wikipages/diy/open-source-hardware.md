@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Open Source Hardware
 permalink: diy/open-source-hardware
 ---

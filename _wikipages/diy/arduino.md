@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Arduino
 permalink: diy/arduino
 ---

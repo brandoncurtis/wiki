@@ -1,7 +1,8 @@
 ---
-template: default
+layout: default
 title: Meal Replacement Experiments
 permalink: food/meal-replacement
+category: food
 ---
 
 |BC| Recipe - Meal Replacements

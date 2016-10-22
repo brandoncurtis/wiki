@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Tesla Coil
 permalink: diy/tesla-coil
 ---

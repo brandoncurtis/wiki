@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Mesh Networks
 permalink: diy/mesh-networks
 ---

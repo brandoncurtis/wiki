@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Plasma Speaker
 permalink: diy/plasma-speaker
 ---

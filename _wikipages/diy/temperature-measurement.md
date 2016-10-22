@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: Temperature Measurement
 permalink: diy/temperature-measurement
 ---

@@ -1,4 +1,6 @@
 ---
+layout: default
+category: diy
 title: High Voltage Components
 permalink: diy/high-voltage-components
 ---
