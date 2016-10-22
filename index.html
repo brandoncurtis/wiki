@@ -6,6 +6,6 @@ title: BC Wiki
 	<ul class="wikipages">
 
 	  {% for wikipage in site.wikipages %}
-	    <li> » <a href="{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+	    <li> » <a href="{{ site.baseurl }} {{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
 	  {% endfor %}
 	</ul>

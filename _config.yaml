@@ -2,7 +2,7 @@ name: Brandon Curtis
 markdown: kramdown
 encoding: utf-8
 timezone: America/Los_Angeles
-baseurl: "/wiki"
+baseurl: "/wiki/"
 
 collections:
   wikipages:
