@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- it's 2016, time to use Unicode! -->
+    <meta charset="utf-8">
+
+    <!-- a "liquid tag" for inserting text from the metadata
+      provided in the markdown doc's YAML frontmatter -->
+    <title>{{ page.title }}</title>
+
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- liquid: insert text from markdown doc -->
+      {{ content }}
+    </div> <!-- /.container -->
+
+    <footer>
+      <!-- liquid: insert text from _includes/footer.html -->
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>

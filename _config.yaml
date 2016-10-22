@@ -1,1 +1,4 @@
-timezone: America/New_York
+name: Brandon Curtis
+markdown: kramdown
+encoding: utf-8
+timezone: America/Los_Angeles
