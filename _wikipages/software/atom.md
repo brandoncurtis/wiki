@@ -1,7 +1,7 @@
 ---
-Title: Atom Text Editor
-Permalink: software/atom
-Category: software
+title: Atom Text Editor
+permalink: software/atom
+category: software
 ---
 
 BC Wiki: Atom Text Editor
