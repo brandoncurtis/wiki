@@ -3,9 +3,17 @@ layout: default
 title: BC Wiki
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="wikipages">
 
+	<p>
+		Content is organized into categories:
+	</p>
+
+	<ul class="wikipages">
 	  {% for wikihub in site.wikihubs %}
 	    <li> » <a href="{{ site.baseurl }}{{ wikihub.url }}" title="{{ wikihub.title }}">{{ wikihub.title }}</a></li>
 	  {% endfor %}
 	</ul>
+	
+	<p>
+		This wiki is written in Markdown and Liquid, configured with YAML, processed by Jekyll, and served by GitHub.
+	</p>
