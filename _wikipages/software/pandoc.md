@@ -24,4 +24,11 @@ You can generate an intermediate .tex file, customize it, then [convert it to a 
     pandoc pandoc.md -f markdown -t latex -s -o pandoc.tex
     pdflatex pandoc.tex
 
-aslasdlkjasldkjaweiwalkjawlejklhiwelihweh
+To roll right through errors and clean up the $\LaTeX$ build files after generating the PDF, I created this script:
+
+    #!/bin/bash
+    mymd="$1"
+    mytex="$(echo "$mymd" | sed s/.md/.tex/)"
+    pandoc "$mymd" -s -f markdown -t latex -o "$mytex"
+    latexmk -pdf -f -interaction=nonstopmode "$mytex"
+    latexmk -pdf -f -c
