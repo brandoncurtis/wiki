@@ -18,7 +18,7 @@ For example, Pandoc can convert Markdown with inline \LaTeX into a PDF:
 
     pandoc pandoc.md -f markdown -t latex -s -o pandoc.pdf
 
-You can generate an intermediate .tex file, customize it, then [convert it to a PDF](./pandoc.pdf) in a separate step:
+You can generate an intermediate .tex file, customize it, then [convert it to a PDF]({{ site.baseurl }}files/pandoc.pdf) in a separate step:
 
     pandoc pandoc.md -f markdown -t latex -s -o pandoc.tex
     pdflatex pandoc.tex
