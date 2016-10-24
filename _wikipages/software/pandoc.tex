@@ -81,6 +81,16 @@ pandoc pandoc.md -f markdown -t latex -s -o pandoc.tex
 pdflatex pandoc.tex
 \end{verbatim}
 
-aslasdlkjasldkjaweiwalkjawlejklhiwelihweh
+To roll right through errors and clean up the \(\LaTeX\) build files
+after generating the PDF, I created this script:
+
+\begin{verbatim}
+#!/bin/bash
+mymd="$1"
+mytex="$(echo "$mymd" | sed s/.md/.tex/)"
+pandoc "$mymd" -s -f markdown -t latex -o "$mytex"
+latexmk -pdf -f -interaction=nonstopmode "$mytex"
+latexmk -pdf -f -c
+\end{verbatim}
 
 \end{document}
