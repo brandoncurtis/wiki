@@ -33,6 +33,16 @@ this converts latex formula-by-formula into images:
 + https://www.fourmilab.ch/webtools/textogif/textogif.html
 + https://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34
 
+Idea:
+write a Markdown parser that pulls out embedded LaTeX, converts to png with latex2img, renders the Markdown to HTML, and reinserts the images into the html!
+
+----
+
+## `latexmk`
+
++ http://paulklemm.com/blog/2016-03-06-watch-latex-documents-using-latexmk/
++ http://jon.smajda.com/2008/03/08/latexmk/
+
 ----
 
 ## Additional Packages
