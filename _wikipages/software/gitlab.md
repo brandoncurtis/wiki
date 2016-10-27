@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitLab Version Control Manager
-permalink: software/atom
+permalink: software/gitlab
 category: software
 ---
 
