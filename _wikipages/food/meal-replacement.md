@@ -5,8 +5,6 @@ permalink: food/meal-replacement
 category: food
 ---
 
-# Meal Replacement Experiments
-
 goal: make a thing I can replace meals with when I'm ultra-busy.
 
 the thing should be relatively healthy, cheap, and straightforward to
