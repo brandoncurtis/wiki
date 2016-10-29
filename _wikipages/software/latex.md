@@ -35,8 +35,7 @@ this converts latex formula-by-formula into images:
 + https://www.fourmilab.ch/webtools/textogif/textogif.html
 + https://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34
 
-
-[Passing arguments to htlatex](https://groups.google.com/forum/#!topic/comp.text.tex/eQFyCQflD4U) 
+[Passing arguments to htlatex](https://groups.google.com/forum/#!topic/comp.text.tex/eQFyCQflD4U)
 
     Doesn't tex4ht and t4ht run in batch mode only? Perhaps you mean the
     preceding latex runs. For example htlatex wrapper runs latex 3x and
@@ -46,8 +45,19 @@ this converts latex formula-by-formula into images:
     htlatex filename "" "" "" "-interaction=batchmode"
 
     http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn-commands.html
-----
+
+
+## `latexmk`
+
++ http://paulklemm.com/blog/2016-03-06-watch-latex-documents-using-latexmk/
++ http://jon.smajda.com/2008/03/08/latexmk/
+
 
 ## Additional Packages
 
 Many people are recommending the `beamer` package.  Look into this!
+
+
+## Development Ideas
+
+write a Markdown parser that pulls out embedded LaTeX, converts to png with latex2img, renders the Markdown to HTML, and reinserts the images into the html!
