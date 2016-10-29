@@ -8,6 +8,8 @@ category: software
 ## Markdown to TeX to HTML (with PNG equations)
 
 + https://www.tug.org/tex4ht/
++ https://github.com/michal-h21/helpers4ht/wiki/tex4ht-tutorial
++
 
 "TeX4ht is a system for converting documents written in TeX/LaTeX/ConTeXt/etc. to HTML, various XML flavors, braille, etc., optionally using MathML."
 
@@ -33,6 +35,17 @@ this converts latex formula-by-formula into images:
 + https://www.fourmilab.ch/webtools/textogif/textogif.html
 + https://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34
 
+
+[Passing arguments to htlatex](https://groups.google.com/forum/#!topic/comp.text.tex/eQFyCQflD4U) 
+
+    Doesn't tex4ht and t4ht run in batch mode only? Perhaps you mean the
+    preceding latex runs. For example htlatex wrapper runs latex 3x and
+    then tex4ht followed by t4ht. You can pass additional options to latex
+    run as 5th parameter to htlatex, e.g.:
+
+    htlatex filename "" "" "" "-interaction=batchmode"
+
+    http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn-commands.html
 ----
 
 ## Additional Packages
