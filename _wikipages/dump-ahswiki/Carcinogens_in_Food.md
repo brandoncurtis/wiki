@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: food
 title: Carcinogens in Food
 permalink: p/food-carcinogens
-category: food
 ---
 
 Root Beer and Sarsaparilla

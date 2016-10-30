@@ -1,6 +1,8 @@
 ---
+layout: default
+category: misc
 title: PlasMedWiki
-permalink: /PlasMedWiki/
+permalink: p/plasmedwiki
 ---
 
 ### Welcome to PlasMedWiki
@@ -36,4 +38,3 @@ Pages of Interest
                                                                       | [Nitrogen Oxides](/Nitrogen_Oxides "wikilink")                             |
                                                                       | [Biological Buffer Solutions](/Biological_Buffer_Solutions "wikilink")     |
                                                                       | [Optical Emission Spectroscopy](/Optical_Emission_Spectroscopy "wikilink") |  |
-

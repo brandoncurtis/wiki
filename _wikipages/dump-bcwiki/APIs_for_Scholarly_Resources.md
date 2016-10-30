@@ -1,6 +1,8 @@
 ---
+layout: default
+category: software
 title: APIs for Scholarly Resources
-permalink: /APIs_for_Scholarly_Resources/
+permalink: p/apis-for-scholars
 ---
 
 GOAL: Write a program that automatically maintains a database of metadata for research articles published in the UC Berkeley College of Chemistry.

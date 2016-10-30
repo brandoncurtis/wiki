@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Employee Stock Purchase Plan
-permalink: /Employee_Stock_Purchase_Plan/
+permalink: p/employee-stock-purchase-plan
 ---
 
 References

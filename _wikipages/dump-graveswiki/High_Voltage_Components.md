@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: diy
 title: High Voltage Components
 permalink: p/high-voltage-components
-category: diy
 ---
 
 To build high voltage equipment, you must acquire some specialty semiconductor components purpose-built to survive the these operating conditions. This can be tricky and expensive, but don't give up! This page will help you track down the components you need.

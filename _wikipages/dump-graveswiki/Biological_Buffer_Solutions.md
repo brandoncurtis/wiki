@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Biological Buffer Solutions
 permalink: /Biological_Buffer_Solutions/
 ---

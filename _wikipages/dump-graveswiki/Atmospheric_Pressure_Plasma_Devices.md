@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Atmospheric Pressure Plasma Devices
 permalink: /Atmospheric_Pressure_Plasma_Devices/
 ---

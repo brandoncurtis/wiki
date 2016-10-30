@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Transportation Spending Account
-permalink: /Transportation_Spending_Account/
+permalink: p/transportation-spending-account
 ---
 
 Bicycle Expenses

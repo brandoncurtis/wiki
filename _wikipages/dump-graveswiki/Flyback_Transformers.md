@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: diy
 title: Flyback Transformers
 permalink: p/flyback-transformers
-category: diy
 ---
 
 **WARNING:** flyback transformers are capable of outputting extremely high voltages! Follow all [high voltage safety protocols](http://www.pupman.com/safety.htm) when handling!

@@ -1,8 +1,8 @@
 ---
-template: default
-title: State College
-permalink: state-college
+layout: default
 category: travel
+title: State College
+permalink: p/state-college
 ---
 
 Hiking

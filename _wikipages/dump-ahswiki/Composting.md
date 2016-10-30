@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: diy
 title: Composting
 permalink: p/composting
-category: diy
 ---
 
 Why Compost?

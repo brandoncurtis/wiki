@@ -1,6 +1,8 @@
 ---
+layout: default
+category: misc
 title: Plasma Medicine Literature Feed
-permalink: /Plasma_Medicine_Literature_Feed/
+permalink: p/plasma-medicine-literature-feed
 ---
 
 __TOC__

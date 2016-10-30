@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: diy
 title: Light Sources
 permalink: p/light-sources
-category: diy
 ---
 
 Ultraviolet

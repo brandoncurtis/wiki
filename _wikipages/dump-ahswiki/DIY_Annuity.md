@@ -1,4 +1,6 @@
 ---
+layout: default
+category: finance
 title: DIY Annuity
 permalink: /DIY_Annuity/
 ---

@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Plasma Math
 permalink: /Plasma_Math/
 ---
@@ -40,4 +42,3 @@ Useful Unicode
  | 2207 | ∇   | gradient (nabla/del) |
  | 03C1 | ρ   | rho                  |
  | 0192 | ƒ   | function f           |  |
-

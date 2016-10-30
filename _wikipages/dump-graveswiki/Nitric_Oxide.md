@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Nitric Oxide
 permalink: /Nitric_Oxide/
 ---

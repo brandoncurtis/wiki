@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: food
 title: Caffeine
 permalink: p/caffeine
-category: food
 ---
 
 Mmm caffeine. Improve your productivity, but don't overdo it.

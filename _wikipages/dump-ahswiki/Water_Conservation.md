@@ -1,6 +1,8 @@
 ---
+layout: default
+category: conservation
 title: Water Conservation
-permalink: /Water_Conservation/
+permalink: p/water-conservation
 ---
 
 Many states are predicted to experience severe drought in the coming decades. A quantitative understanding of where our water goes will help you figure out where your conservation efforts are best spent.

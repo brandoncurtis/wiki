@@ -1,6 +1,8 @@
 ---
+layout: default
+category: diy
 title: 555 and 556 Timer ICs
-permalink: /555_and_556_Timer_ICs/
+permalink: p/timer-ics
 ---
 
 Datasheets

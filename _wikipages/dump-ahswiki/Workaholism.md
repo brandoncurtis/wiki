@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Workaholism
-permalink: /Workaholism/
+permalink: p/workaholism
 ---
 
 <http://www.fastcompany.com/3046429/the-new-rules-of-work/the-highest-paying-jobs-of-the-future-will-eat-your-life>

@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Computing Competency
 permalink: /Computing_Competency/
 ---

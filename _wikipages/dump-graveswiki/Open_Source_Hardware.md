@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Open Source Hardware
 permalink: /Open_Source_Hardware/
 ---

@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Become a Registered Investment Advisor
-permalink: /Become_a_Registered_Investment_Advisor/
+permalink: p/registered-investment-advisor
 ---
 
 The Series 65 Exam

@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Open Source Software
 permalink: /Open_Source_Software/
 ---

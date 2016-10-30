@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Ozone
 permalink: /Ozone/
 ---

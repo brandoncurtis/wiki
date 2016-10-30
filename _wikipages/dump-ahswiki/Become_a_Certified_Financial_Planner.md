@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Become a Certified Financial Planner
-permalink: /Become_a_Certified_Financial_Planner/
+permalink: p/certified-financial-planner
 ---
 
 Who Might Want To?

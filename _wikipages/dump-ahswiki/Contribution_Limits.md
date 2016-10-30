@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: finance
 title: Contribution Limits
 permalink: p/contribution-limits
-category: finance
 ---
 
 Virtually every investment plan has a contribution limit of some sort, and these limits change over time. This page will keep the site up-to-date by acting as a contribution limit quick-reference for accounts of all types.

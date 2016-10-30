@@ -1,6 +1,8 @@
 ---
+layout: default
+category: misc
 title: Culturing Galdieria sulphararia
-permalink: culturing-galdeiria-sulphararia
+permalink: p/culturing-galdeiria-sulphararia
 ---
 
 Galdieria sulphararia is a thermophilic acidophilic algae.

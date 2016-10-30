@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: LaTeX Testing
 permalink: /LaTeX_Testing/
 ---

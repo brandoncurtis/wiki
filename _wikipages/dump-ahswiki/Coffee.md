@@ -1,12 +1,12 @@
 ---
-template: default
+layout: default
+category: food
 title: Coffee
 permalink: p/coffee
-category: food
 ---
 
-Grinders
---------
+# Grinders
+
 
     http://www.amazon.com/KRUPS-Electric-Grinder-Stainless-3-Ounce/dp/B00004SPEU/
     $20

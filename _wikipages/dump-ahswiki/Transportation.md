@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Transportation
-permalink: /Transportation/
+permalink: p/transportation
 ---
 
 Topic Overview

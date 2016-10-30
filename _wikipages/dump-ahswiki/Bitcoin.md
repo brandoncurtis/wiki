@@ -1,8 +1,9 @@
 ---
-template: default
+layout: default
+category: finance
 title: Bitcoin
 permalink: p/bitcoin
-category: finance
+
 ---
 
 The cryptocurrency concept is solid, but Bitcoin itself may not be the implementation that wins. Don't invest anything in cryptocurrency that you can't afford to lose.

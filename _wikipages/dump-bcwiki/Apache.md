@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: software
 title: Apache
 permalink: p/apache
-category: software
 ---
 
 

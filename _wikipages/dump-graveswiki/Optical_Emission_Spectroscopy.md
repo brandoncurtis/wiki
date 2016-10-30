@@ -1,4 +1,6 @@
 ---
+layout: default
+category: misc
 title: Optical Emission Spectroscopy
 permalink: /Optical_Emission_Spectroscopy/
 ---

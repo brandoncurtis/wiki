@@ -1,8 +1,8 @@
 ---
-template: default
+layout: default
+category: finance
 title: Book - The Personal MBA
 permalink: p/book-personal-mba
-category: finance
 ---
 
 Why Read This Book?

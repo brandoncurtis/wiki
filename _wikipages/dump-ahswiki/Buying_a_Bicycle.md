@@ -1,6 +1,8 @@
 ---
+layout: default
+category: finance
 title: Buying a Bicycle
-permalink: /Buying_a_Bicycle/
+permalink: p/buying-a-bicycle
 ---
 
 This [Google Doc](https://docs.google.com/document/d/1vTktg8F1WdZGhXJ5_QWkSvLWKdBysu5oGGSYWO9LIIk/edit) has a lot of information; will port it over.

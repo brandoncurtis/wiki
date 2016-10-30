@@ -1,6 +1,8 @@
 ---
+layout: default
+category: diy
 title: Astronomy
-permalink: /Astronomy/
+permalink: p/astronomy
 ---
 
 **2016-04-27**

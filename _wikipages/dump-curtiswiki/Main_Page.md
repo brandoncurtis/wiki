@@ -1,6 +1,8 @@
 ---
+layout: default
+category: misc
 title: Curtislab Main
-permalink: curtislab-main
+permalink: p/curtislab-main
 ---
 
 Welcome to the **CurtisLab Wiki**—the community-editable resource from the \[//www.curtislab.org/ chemical engineering laboratory of Dr. Wayne Curtis\].
