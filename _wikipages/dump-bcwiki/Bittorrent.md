@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Bittorrent
 permalink: p/bittorrent
 category: software

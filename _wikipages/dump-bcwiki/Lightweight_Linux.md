@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Lightweight Linux
 permalink: p/lightweight-linux
 category: software

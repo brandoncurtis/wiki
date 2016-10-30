@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Field Programmable Gate Arrays
 permalink: field_programmable_gate_arrays
 category: diy

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Lithium Supplementation
 permalink: p/lithium-supplementation
 category: food

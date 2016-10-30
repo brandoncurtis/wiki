@@ -1,4 +1,6 @@
 ---
+layout: default
+category: software
 title: Google Drive
 permalink: /Google_Drive/
 ---

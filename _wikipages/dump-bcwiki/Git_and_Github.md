@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Git and Github
 permalink: p/git
 category: software

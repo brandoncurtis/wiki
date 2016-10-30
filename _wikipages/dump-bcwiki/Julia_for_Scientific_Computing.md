@@ -1,6 +1,8 @@
 ---
+layout: default
+category: software
 title: Julia for Scientific Computing
-permalink: /Julia_for_Scientific_Computing/
+permalink: p/julia-scientific-computing
 ---
 
 from [|BC| Preparing a virtualenv containing Julia in Jupyter](https://docs.google.com/document/d/13mw6SAP94zFa_jtcaoYqHKwppNv5V3bb1fvpwBQM7Z0/edit#):

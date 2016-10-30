@@ -1,4 +1,6 @@
 ---
+layout: default
+category: software
 title: Google Chrome Remote
 permalink: /Google_Chrome_Remote/
 ---

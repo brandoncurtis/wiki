@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Encryption
 permalink: p/encryption
 category: software
