@@ -114,6 +114,12 @@ Milk](https://nutritiondata.self.com/facts/dairy-and-egg-products/83/2)
 -   0:3:2 f:c:p
 -   28g = 100 kcal
 
+[Flaxseed Meal](https://nutritiondata.self.com/facts/nut-and-seed-products/3163/2) ([buy](https://www.amazon.com/Bobs-Red-Mill-Flaxseed-16-ounce/dp/B004VLV91S)
+
++ 1100 kcal/\$
++ 4:3:2 f:c:p
++ 10g = 55 kcal
+
 [Coconut Oil](https://nutritiondata.self.com/facts/fats-and-oils/508/2)
 ([buy](https://www.amazon.com/Carrington-Farms-Organic-Virgin-Coconut/dp/B00CPZPYLS/))
 
@@ -121,9 +127,24 @@ Milk](https://nutritiondata.self.com/facts/dairy-and-egg-products/83/2)
 -   1:0:0 f:c:p
 -   1 TBsp = 115 kcal
 
-total: 410 calories
+Powdered vegetables from Whole Spice, Napa Valley:
 
-\$2.22
++ [Celery Stalk Powder](http://wholespice.com/celery-stalk-powder.html)
++ [Spinach Powder](http://wholespice.com/a-z/s/spinach-powder.html)
++ [Roasted Green Bell Pepper Powder](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/roasted-green-bell-pepper-powder.html)
++ [Roasted Red Bell Pepper Powde](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/roasted-red-bell-pepper-powder.html)
++ [Sweet Potato Powder](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/sweet-potato-powder.html)
++ [Strawberry Powder](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/strawberry-fruit-powder.html)
++ [Portobello Mushroom Powder](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/portobello-mushroom-powder.html)
++ [Porcini Mushroom Powder](http://wholespice.com/pantry-basics/dried-fruits-and-vegetables/porcini-mushroom-powder.html)
+
+Powdered vegetables from other places:
+
++ [Spinach Powder](https://www.amazon.com/Hoosier-Hill-Farm-Spinach-Powder/dp/B00DX5D8CQ/)
++ [Wheatgrass Powder](https://www.amazon.com/Hoosier-Hill-Farm-Organic-Powder/dp/B00D5L2R5M/)
++ [Kale Powder](https://www.amazon.com/Hoosier-Hill-Farm-Natural-powder/dp/B00BBFR9RU/)
+
+An example drink made from the above is \$2.22 for 410 calories.
 
 ### Rejected Ingredients
 
