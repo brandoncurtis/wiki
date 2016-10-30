@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jekyll for Static Sites
-permalink: software/jeckyll
+permalink: p/jekyll
 category: software
 ---
 

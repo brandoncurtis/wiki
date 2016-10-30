@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Open Source Hardware
-permalink: diy/open-source-hardware
+permalink: p/open-source-hardware
 ---
 
 Arduino

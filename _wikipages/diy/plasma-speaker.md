@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Plasma Speaker
-permalink: diy/plasma-speaker
+permalink: p/plasma-speaker
 ---
 
 Basic Design

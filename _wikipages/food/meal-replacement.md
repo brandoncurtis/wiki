@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meal Replacement Experiments
-permalink: food/meal-replacement
+permalink: p/meal-replacement
 category: food
 ---
 

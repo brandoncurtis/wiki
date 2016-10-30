@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atom Text Editor
-permalink: software/atom
+permalink: p/atom
 category: software
 ---
 

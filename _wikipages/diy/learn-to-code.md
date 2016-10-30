@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Learn To Code
-permalink: diy/learn-to-code
+permalink: p/learn-to-code
 ---
 
 Learning to code is good for your brain (and very likely good for your future paycheck).

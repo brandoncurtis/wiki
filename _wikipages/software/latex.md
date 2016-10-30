@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LaTeX Document Typesetting
-permalink: software/latex
+permalink: p/latex
 category: software
 ---
 

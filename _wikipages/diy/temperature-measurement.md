@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Temperature Measurement
-permalink: diy/temperature-measurement
+permalink: p/temperature-measurement
 ---
 
 Thermal Measurement Hardware

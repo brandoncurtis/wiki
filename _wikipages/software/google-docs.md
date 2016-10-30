@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Google Docs
-permalink: software/google-docs
+permalink: p/google-docs
 category: software
 ---
 

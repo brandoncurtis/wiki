@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plotting in Python
-permalink: software/plotting
+permalink: p/plotting
 category: software
 ---
 

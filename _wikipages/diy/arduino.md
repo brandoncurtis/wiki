@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Arduino
-permalink: diy/arduino
+permalink: p/arduino
 ---
 
 __FORCETOC__

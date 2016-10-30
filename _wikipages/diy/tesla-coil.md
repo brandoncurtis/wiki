@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Tesla Coil
-permalink: diy/tesla-coil
+permalink: p/tesla-coil
 ---
 
 Winding the Secondary

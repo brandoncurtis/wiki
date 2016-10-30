@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pandoc Text Converter
-permalink: software/pandoc
+permalink: p/pandoc
 category: software
 math: True
 ---

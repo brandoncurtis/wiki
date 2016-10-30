@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Microwave Experiments
-permalink: diy/microwave-experiments
+permalink: p/microwave-experiments
 ---
 
 Microwave Fundamentals

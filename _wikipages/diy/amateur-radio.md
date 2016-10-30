@@ -2,7 +2,7 @@
 layout: default
 category: diy
 title: Amateur Radio
-permalink: diy/amateur-radio
+permalink: p/amateur-radio
 ---
 
 Getting Licensed
