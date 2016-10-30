@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Tax Loopholes
 permalink: p/tax-loopholes
 category: finance

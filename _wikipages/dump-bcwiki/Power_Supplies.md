@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Power Supplies
 permalink: p/power-supplies
 category: diy

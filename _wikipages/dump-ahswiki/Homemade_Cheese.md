@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Homemade Cheese
 permalink: p/homemade-cheese
 category: food

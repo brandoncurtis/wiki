@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Real Estate
 permalink: p/real-estate
 category: finance

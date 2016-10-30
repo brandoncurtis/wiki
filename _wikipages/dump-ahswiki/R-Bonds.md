@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: R-Bonds
 permalink: p/r-bonds
 category: finance

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Homebrewing
 permalink: p/homebrewing
 category: food

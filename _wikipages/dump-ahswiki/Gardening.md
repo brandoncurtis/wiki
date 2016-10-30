@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Gardening
 permalink: p/gardening
 category: food

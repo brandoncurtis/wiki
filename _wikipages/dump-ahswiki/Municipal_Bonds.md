@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Municipal Bonds
 permalink: p/municipal-bonds
 category: finance

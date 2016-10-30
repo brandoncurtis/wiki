@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Philanthropy
 permalink: p/philanthropy
 category: finance

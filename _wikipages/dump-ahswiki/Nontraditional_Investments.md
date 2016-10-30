@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Nontraditional Investments
 permalink: p/nontraditional-investments
 category: finance

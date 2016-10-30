@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Robo-Investing
 permalink: p/robo-investing
 category: finance

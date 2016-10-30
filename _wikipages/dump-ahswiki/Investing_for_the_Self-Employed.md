@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Investing for the Self-Employed
 permalink: p/self-employed-investing
 category: finance

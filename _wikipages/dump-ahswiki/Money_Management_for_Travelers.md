@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Money Management for Travels
 permalink: p/traveling-money
 category: finance

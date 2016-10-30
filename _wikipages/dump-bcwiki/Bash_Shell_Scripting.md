@@ -1,6 +1,8 @@
 ---
+layout: default
+category: software
 title: Bash Shell Scripting
-permalink: /Bash_Shell_Scripting/
+permalink: p/bash-shell-scripting
 ---
 
 [Geek Page – Scripting Languages](http://www.wired.com/1995/09/geek-32/) (Wired 1995)

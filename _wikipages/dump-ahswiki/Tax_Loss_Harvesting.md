@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Tax Loss Harvesting
 permalink: p/tax-loss-harvesting
 category: finance

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Foraging
 permalink: p/foraging
 category: food

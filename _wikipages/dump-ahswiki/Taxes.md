@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Taxes
 permalink: p/taxes
 category: finance

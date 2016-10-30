@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Operational Amplifiers
 permalink: p/op-amps
 category: diy

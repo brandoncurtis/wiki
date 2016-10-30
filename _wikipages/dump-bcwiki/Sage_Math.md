@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Sage Math
 permalink: p/sage-math
 category: software

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Social Security
 permalink: p/social-security
 category: finance

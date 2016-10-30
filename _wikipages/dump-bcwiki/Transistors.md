@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Transistors
 permalink: p/transistors
 category: diy

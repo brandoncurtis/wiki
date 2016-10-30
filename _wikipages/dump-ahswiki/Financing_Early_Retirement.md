@@ -1,4 +1,6 @@
 ---
+layout: default
+category: finance
 title: Financing Early Retirement
 permalink: /Financing_Early_Retirement/
 ---

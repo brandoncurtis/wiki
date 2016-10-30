@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: MyRA Savings Account
 permalink: p/myra-savings
 category: finance

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Relocation Expenses
 permalink: p/relocation-expenses
 category: finance

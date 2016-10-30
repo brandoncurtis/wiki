@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Low-Meat Diet
 permalink: p/low-meat-diet
 category: food

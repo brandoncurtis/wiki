@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Urbit
 permalink: p/urbit
 category: software

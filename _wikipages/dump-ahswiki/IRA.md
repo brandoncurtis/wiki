@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Individual Retirement Account
 permalink: p/ira
 category: finance
