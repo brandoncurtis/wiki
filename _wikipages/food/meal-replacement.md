@@ -82,18 +82,30 @@ Typical ~10-serving batch prep:
 
 ## Ingredient Roundup
 
+### Premixed Bases
+
+[Orgain Meal](https://www.amazon.com/Orgain-Organic-Powder-Creamy-Chocolate/dp/B00RWWOKHI/)
+
++ 200 kcal/$
++ 1:5:4 f:c:p
++ main ingredients: plant protein mix, plant oils and emulsifiers, sugar alcohols (erythritol), sprouted grain and seed mix, grass blend, vegetable and fruit blend
+
+[Soylent Drink](https://www.soylent.com/product/drink/)
+
++ 200 kcal/$ (400 kcal/bottle)
++ 4:7:4 f:c:p
++ main ingredients: maltodextrin, soy protein, algal oil, isomaltulose, canola oil, rice starch, oat fiber
+
 ### Good Ingredients
 
-[Oat
-Flour](https://nutritiondata.self.com/facts/breakfast-cereals/1597/2)
+[Oat Flour](https://nutritiondata.self.com/facts/breakfast-cereals/1597/2)
 ([buy](https://www.amazon.com/Bobs-Red-Mill-Regular-32-Ounce/dp/B004VLVB5C/))
 
 -   1000 kcal/\$
 -   1:11:2 f:c:p
 -   28g = 105 kcal
 
-[Soy Protein
-Isolate](https://www.amazon.com/Bobs-Red-Mill-Protein-14-ounce/dp/B00CRAS86E/)
+[Soy Protein Isolate](https://www.amazon.com/Bobs-Red-Mill-Protein-14-ounce/dp/B00CRAS86E/)
 ([buy](https://www.amazon.com/Bobs-Red-Mill-Protein-14-ounce/dp/B00CRAS86E/))
 
 -   190 kcal/\$
@@ -107,14 +119,13 @@ Isolate](https://www.amazon.com/Bobs-Red-Mill-Protein-14-ounce/dp/B00CRAS86E/)
 -   2:1:1 f:c:p
 -   9g = 50 kcal
 
-[Nonfat Dry
-Milk](https://nutritiondata.self.com/facts/dairy-and-egg-products/83/2)
+[Nonfat Dry Milk](https://nutritiondata.self.com/facts/dairy-and-egg-products/83/2)
 
 -   275 kcal/\$
 -   0:3:2 f:c:p
 -   28g = 100 kcal
 
-[Flaxseed Meal](https://nutritiondata.self.com/facts/nut-and-seed-products/3163/2) ([buy](https://www.amazon.com/Bobs-Red-Mill-Flaxseed-16-ounce/dp/B004VLV91S)
+[Flaxseed Meal](https://nutritiondata.self.com/facts/nut-and-seed-products/3163/2) ([buy](https://www.amazon.com/Bobs-Red-Mill-Flaxseed-16-ounce/dp/B004VLV91S))
 
 + 1100 kcal/\$
 + 4:3:2 f:c:p
@@ -123,9 +134,14 @@ Milk](https://nutritiondata.self.com/facts/dairy-and-egg-products/83/2)
 [Coconut Oil](https://nutritiondata.self.com/facts/fats-and-oils/508/2)
 ([buy](https://www.amazon.com/Carrington-Farms-Organic-Virgin-Coconut/dp/B00CPZPYLS/))
 
--   90 kcal/\$
+-   900 kcal/\$
 -   1:0:0 f:c:p
 -   1 TBsp = 115 kcal
+
+[Coconut Milk](https://www.amazon.com/Native-Forest-Organic-Classic-13-5-oz/dp/B001HTJ2BQ/)
+
++   350 kcal/\$
++   1:0:0 f:c:p
 
 Powdered vegetables from Whole Spice, Napa Valley:
 
