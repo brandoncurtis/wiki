@@ -1,6 +1,8 @@
 ---
-title: High-Yield Savings Accounts
-permalink: /High-Yield_Savings_Accounts/
+template: default
+title: High-Yield Savings
+permalink: p/high-yield-savings
+category: finance
 ---
 
 Mango Money

@@ -1,6 +1,8 @@
 ---
-title: MyRA Savings Accounts
-permalink: /MyRA_Savings_Accounts/
+template: default
+title: MyRA Savings Account
+permalink: p/myra-savings
+category: finance
 ---
 
 The [MyRA](http://en.wikipedia.org/wiki/MyRA) is a new form of introductory retirement account announced by President Obama in 2014 and launched by the US Treasury in 2015. It is a Roth IRA funded by direct deposit and invested in government securities, similar to the Thrift Savings Plan (TSP) "G" Fund.

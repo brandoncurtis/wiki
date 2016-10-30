@@ -1,6 +1,8 @@
 ---
+template: default
 title: Foraging
-permalink: /Foraging/
+permalink: p/foraging
+category: food
 ---
 
 Garlic Mustard (Alliaria petiolata)

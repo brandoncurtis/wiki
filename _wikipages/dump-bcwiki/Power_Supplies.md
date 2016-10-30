@@ -1,6 +1,8 @@
 ---
+template: default
 title: Power Supplies
-permalink: /Power_Supplies/
+permalink: p/power-supplies
+category: diy
 ---
 
 Voltage Converter ICs

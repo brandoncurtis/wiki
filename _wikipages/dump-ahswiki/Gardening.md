@@ -1,6 +1,8 @@
 ---
+template: default
 title: Gardening
-permalink: /Gardening/
+permalink: p/gardening
+category: food
 ---
 
 Tomato Gardening

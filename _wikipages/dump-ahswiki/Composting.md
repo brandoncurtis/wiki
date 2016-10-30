@@ -1,6 +1,8 @@
 ---
+template: default
 title: Composting
-permalink: /Composting/
+permalink: p/composting
+category: diy
 ---
 
 Why Compost?

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Raspberry Pi
-permalink: /Raspberry_Pi/
+permalink: p/raspberry-pi
+category: diy
 ---
 
 Models and Performance

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Dielectrics
-permalink: /Dielectrics/
+permalink: p/dielectrics
+category: diy
 ---
 
 Important Factors

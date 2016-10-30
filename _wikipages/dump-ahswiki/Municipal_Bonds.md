@@ -1,6 +1,8 @@
 ---
+template: default
 title: Municipal Bonds
-permalink: /Municipal_Bonds/
+permalink: p/municipal-bonds
+category: finance
 ---
 
 Municipal Bonds

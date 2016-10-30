@@ -1,6 +1,8 @@
 ---
+template: default
 title: Sage Math
-permalink: /Sage_Math/
+permalink: p/sage-math
+category: software
 ---
 
 Sage Math is a free, open-source computer algebra system. You can install it on any device and do any kind of math at no cost!

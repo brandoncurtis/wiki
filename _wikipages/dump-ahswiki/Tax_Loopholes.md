@@ -1,6 +1,8 @@
 ---
+template: default
 title: Tax Loopholes
-permalink: /Tax_Loopholes/
+permalink: p/tax-loopholes
+category: finance
 ---
 
 Inherited Tax Basis Step-Up

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Web Tools
-permalink: /Web_Tools/
+permalink: p/web-tools
+category: software
 ---
 
 Web Development

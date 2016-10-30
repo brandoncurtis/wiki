@@ -1,6 +1,8 @@
 ---
-title: Money Management for Travelers
-permalink: /Money_Management_for_Travelers/
+template: default
+title: Money Management for Travels
+permalink: p/traveling-money
+category: finance
 ---
 
 Travelling is expensive enough - keep your bank fees to a minimum!

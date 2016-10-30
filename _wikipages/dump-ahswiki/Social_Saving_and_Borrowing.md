@@ -1,6 +1,8 @@
 ---
+template: default
 title: Social Saving and Borrowing
-permalink: /Social_Saving_and_Borrowing/
+permalink: p/social-saving-borrowing
+category: finance
 ---
 
 Use an Accumulated Savings and Credit Association (ASCA) to pool your emergency fund resources with others and improve your liquidity! An ASCA is an insurance plan where you're in on it with people you actually know, care about, and trust—you can cherry-pick your most financially stable, trustworthy associates!

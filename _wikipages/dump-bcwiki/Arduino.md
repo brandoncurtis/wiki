@@ -1,6 +1,8 @@
 ---
+template: default
 title: Arduino
-permalink: /Arduino/
+permalink: p/arduino
+category: diy
 ---
 
 __FORCETOC__

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Homemade Cookies
-permalink: /Homemade_Cookies/
+permalink: p/homemade-cookies
+category: food
 ---
 
 Cookies are delicious.

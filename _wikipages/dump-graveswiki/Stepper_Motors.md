@@ -1,6 +1,8 @@
 ---
+template: default
 title: Stepper Motors
-permalink: /Stepper_Motors/
+permalink: p/stepper-motors
+category: diy
 ---
 
 Working with Stepper Motors

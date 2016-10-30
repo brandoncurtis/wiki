@@ -1,6 +1,8 @@
 ---
+template: default
 title: Biological Buffer Solutions
-permalink: biological-buffer-solutions
+permalink: p/biological-buffer-solutions
+category: diy
 ---
 
 Buffer Tables

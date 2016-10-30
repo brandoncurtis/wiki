@@ -1,6 +1,8 @@
 ---
-title: IRA
-permalink: /IRA/
+template: default
+title: Individual Retirement Account
+permalink: p/ira
+category: finance
 ---
 
 The Backdoor Roth

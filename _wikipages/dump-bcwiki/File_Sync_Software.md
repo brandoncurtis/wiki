@@ -1,6 +1,8 @@
 ---
+template: default
 title: File Sync Software
-permalink: /File_Sync_Software/
+permalink: p/file-sync
+category: software
 ---
 
 rsync

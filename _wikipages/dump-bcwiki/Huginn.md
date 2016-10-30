@@ -1,6 +1,8 @@
 ---
+template: default
 title: Huginn
-permalink: /Huginn/
+permalink: p/huginn
+category: software
 ---
 
 Introduction

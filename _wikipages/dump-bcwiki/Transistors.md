@@ -1,6 +1,8 @@
 ---
+template: default
 title: Transistors
-permalink: /Transistors/
+permalink: p/transistors
+category: diy
 ---
 
 Junction Gate Field Effect Transistors (JFETs)

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Robo-Investing
-permalink: /Robo-Investing/
+permalink: p/robo-investing
+category: finance
 ---
 
 -   <http://investorjunkie.com/35919/robo-advisors/>

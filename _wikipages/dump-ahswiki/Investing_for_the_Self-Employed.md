@@ -1,6 +1,8 @@
 ---
+template: default
 title: Investing for the Self-Employed
-permalink: /Investing_for_the_Self-Employed/
+permalink: p/self-employed-investing
+category: finance
 ---
 
 Are you self-employed? Do you work as a contractor, a consultant, or otherwise receive compensation that you must pay self-employment tax on? There are special retirement savings plans available just for you!

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Relocation Expenses
-permalink: /Relocation_Expenses/
+permalink: p/relocation-expenses
+category: finance
 ---
 
 Whether or not you're reimbursed, some of your job-related moving expenses may be tax-deductible!

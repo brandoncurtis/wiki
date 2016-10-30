@@ -1,6 +1,8 @@
 ---
+template: default
 title: Lightweight Linux
-permalink: /Lightweight_Linux/
+permalink: p/lightweight-linux
+category: software
 ---
 
 Resource Utilization: Ubuntu 10.04 vs 12.04

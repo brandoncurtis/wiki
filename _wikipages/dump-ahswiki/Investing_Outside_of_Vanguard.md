@@ -1,6 +1,8 @@
 ---
+template: default
 title: Investing Outside of Vanguard
-permalink: /Investing_Outside_of_Vanguard/
+permalink: p/non-vanguard-investing
+category: finance
 ---
 
 Schwab

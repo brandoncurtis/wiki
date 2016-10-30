@@ -1,6 +1,8 @@
 ---
+template: default
 title: Plastic Bonding
-permalink: /Plastic_Bonding/
+permalink: p/plastic-bonding
+category: diy
 ---
 
 Solvent Welding/Bonding

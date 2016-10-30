@@ -1,6 +1,8 @@
 ---
+template: default
 title: Encryption
-permalink: /Encryption/
+permalink: p/encryption
+category: software
 ---
 
 Secure your communications with end-to-end encryption.

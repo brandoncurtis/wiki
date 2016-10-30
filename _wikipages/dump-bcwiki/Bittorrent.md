@@ -1,7 +1,10 @@
 ---
+template: default
 title: Bittorrent
-permalink: /Bittorrent/
+permalink: p/bittorrent
+category: software
 ---
+
 
 Creating a Torrent
 ------------------

@@ -1,6 +1,8 @@
 ---
+template: default
 title: Precious Metals and Diamonds
-permalink: /Precious_Metals_and_Diamonds/
+permalink: p/gold-investing
+category: finance
 ---
 
 Gold

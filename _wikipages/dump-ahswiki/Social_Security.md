@@ -1,6 +1,8 @@
 ---
+template: default
 title: Social Security
-permalink: /Social_Security/
+permalink: p/social-security
+category: finance
 ---
 
 Social Security Eligibility

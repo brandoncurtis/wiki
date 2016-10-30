@@ -1,6 +1,8 @@
 ---
+template: default
 title: Coffee
-permalink: /Coffee/
+permalink: p/coffee
+category: food
 ---
 
 Grinders

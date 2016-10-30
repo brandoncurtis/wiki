@@ -1,6 +1,8 @@
 ---
+template: default
 title: Git and Github
-permalink: /Git_and_Github/
+permalink: p/git
+category: software
 ---
 
 <https://www.linux.com/learn/finding-everything-git>

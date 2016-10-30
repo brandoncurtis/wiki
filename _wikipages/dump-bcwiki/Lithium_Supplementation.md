@@ -1,6 +1,8 @@
 ---
+template: default
 title: Lithium Supplementation
-permalink: /Lithium_Supplementation/
+permalink: p/lithium-supplementation
+category: food
 ---
 
 Background

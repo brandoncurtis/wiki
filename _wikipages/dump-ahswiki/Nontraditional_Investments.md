@@ -1,6 +1,8 @@
 ---
+template: default
 title: Nontraditional Investments
-permalink: /Nontraditional_Investments/
+permalink: p/nontraditional-investments
+category: finance
 ---
 
 Once you've maxed out your IRA and employer sponsored plans and you're already saving a decent amount in a taxable brokerage account, consider adding a few percent of a nontraditional investment. They can be fun and may offer returns that are uncorrelated with or larger than the stock market's returns, but they often have hidden systematic risks. Be careful out there!

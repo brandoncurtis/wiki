@@ -1,6 +1,8 @@
 ---
+template: default
 title: Low-Meat Diet
-permalink: /Low-Meat_Diet/
+permalink: p/low-meat-diet
+category: food
 ---
 
 Meat is resource-intensive, and [we grow way too much of it](https://xkcd.com/1338/). Eat less of it.

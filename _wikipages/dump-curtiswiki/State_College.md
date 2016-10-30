@@ -1,4 +1,5 @@
 ---
+template: default
 title: State College
 permalink: state-college
 category: travel

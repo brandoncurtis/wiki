@@ -1,6 +1,7 @@
 ---
+template: default
 title: Receipt Management
-permalink: receipt-management
+permalink: p/receipt-management
 category: finance
 ---
 

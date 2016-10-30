@@ -1,6 +1,8 @@
 ---
+template: default
 title: Philanthropy
-permalink: /Philanthropy/
+permalink: p/philanthropy
+category: finance
 ---
 
 Microfinance

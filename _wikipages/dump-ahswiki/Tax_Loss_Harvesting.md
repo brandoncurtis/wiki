@@ -1,7 +1,10 @@
 ---
+template: default
 title: Tax Loss Harvesting
-permalink: /Tax_Loss_Harvesting/
+permalink: p/tax-loss-harvesting
+category: finance
 ---
+
 
 <http://www.investopedia.com/articles/taxes/08/tax-loss-harvesting.asp>
 

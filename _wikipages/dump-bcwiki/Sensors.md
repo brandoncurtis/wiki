@@ -1,6 +1,8 @@
 ---
+template: default
 title: Sensors
-permalink: /Sensors/
+permalink: p/sensors
+category: diy
 ---
 
 Purchased on Ebay, 2016-04:

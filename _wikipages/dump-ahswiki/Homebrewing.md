@@ -1,6 +1,8 @@
 ---
+template: default
 title: Homebrewing
-permalink: /Homebrewing/
+permalink: p/homebrewing
+category: food
 ---
 
 Extract Brewing

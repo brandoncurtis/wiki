@@ -1,6 +1,8 @@
 ---
+template: default
 title: Operational Amplifiers
-permalink: /Operational_Amplifiers/
+permalink: p/op-amps
+category: diy
 ---
 
 ### Current Feedback Op Amps

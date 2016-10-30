@@ -1,6 +1,8 @@
 ---
+template: default
 title: Taxes
-permalink: /Taxes/
+permalink: p/taxes
+category: finance
 ---
 
 This page will contain an updated, cleaned-up, and expanded version of the information in \[//docs.google.com/a/berkeley.edu/document/d/19GB08HcNrkoD8WabwtEnjsdIxAcnMBGng-ge0T93ABA/ this Google Doc\].

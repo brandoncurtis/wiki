@@ -1,6 +1,8 @@
 ---
+template: default
 title: Urbit
-permalink: /Urbit/
+permalink: p/urbit
+category: software
 ---
 
 -   <https://github.com/urbit/urbit>

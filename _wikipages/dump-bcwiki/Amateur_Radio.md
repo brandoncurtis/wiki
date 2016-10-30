@@ -1,7 +1,10 @@
 ---
+template: default
 title: Amateur Radio
-permalink: /Amateur_Radio/
+permalink: p/amateur-radio
+category: diy
 ---
+
 
 Getting Licensed
 ----------------

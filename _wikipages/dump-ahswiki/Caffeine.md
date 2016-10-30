@@ -1,6 +1,8 @@
 ---
+template: default
 title: Caffeine
-permalink: /Caffeine/
+permalink: p/caffeine
+category: food
 ---
 
 Mmm caffeine. Improve your productivity, but don't overdo it.

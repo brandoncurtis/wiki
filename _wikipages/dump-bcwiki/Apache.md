@@ -1,7 +1,10 @@
 ---
+template: default
 title: Apache
-permalink: /Apache/
+permalink: p/apache
+category: software
 ---
+
 
 Apache 2.2 in Ubuntu 14.04
 --------------------------

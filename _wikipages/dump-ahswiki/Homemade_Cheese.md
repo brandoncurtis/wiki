@@ -1,6 +1,8 @@
 ---
+template: default
 title: Homemade Cheese
-permalink: /Homemade_Cheese/
+permalink: p/homemade-cheese
+category: food
 ---
 
 Easy to make with a few supplies you can buy online.

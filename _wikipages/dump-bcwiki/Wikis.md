@@ -1,6 +1,8 @@
 ---
+template: default
 title: Wikis
-permalink: /Wikis/
+permalink: p/wikis
+category: software
 ---
 
 __FORCETOC__

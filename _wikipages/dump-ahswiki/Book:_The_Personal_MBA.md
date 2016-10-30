@@ -1,6 +1,8 @@
 ---
-title: Book The Personal MBA
-permalink: /Book_The_Personal_MBA/
+template: default
+title: Book - The Personal MBA
+permalink: p/book-personal-mba
+category: finance
 ---
 
 Why Read This Book?

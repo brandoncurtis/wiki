@@ -1,6 +1,8 @@
 ---
+template: default
 title: R-Bonds
-permalink: /R-Bonds/
+permalink: p/r-bonds
+category: finance
 ---
 
 Summary

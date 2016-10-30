@@ -1,6 +1,8 @@
 ---
+template: default
 title: Fermentation Food Safety
-permalink: /Fermentation_Food_Safety/
+permalink: p/fermentation-safety
+category: food
 ---
 
 Like any food, there are certain health risks associated with fermented foods. These risks are vastly overstated in the media.

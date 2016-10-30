@@ -1,6 +1,8 @@
 ---
+template: default
 title: Optical Windows
-permalink: /Optical_Windows/
+permalink: p/optical-windows
+category: diy 
 ---
 
 Material Selection
