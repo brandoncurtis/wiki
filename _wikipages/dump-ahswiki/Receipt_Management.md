@@ -1,6 +1,7 @@
 ---
 title: Receipt Management
-permalink: /Receipt_Management/
+permalink: receipt-management
+category: finance
 ---
 
 OneReceipt is so awesome:
