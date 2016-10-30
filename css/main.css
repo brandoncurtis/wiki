@@ -40,3 +40,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+code {
+  white-space: pre-wrap;
+}
