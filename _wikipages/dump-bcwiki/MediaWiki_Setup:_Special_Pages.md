@@ -1,6 +1,6 @@
 ---
-title: MediaWiki Setup: Special Pages
-permalink: /MediaWiki_Setup:_Special_Pages/
+title: MediaWiki Setup Special Pages
+permalink: /MediaWiki_Setup_Special_Pages/
 ---
 
 Modifying the Interface

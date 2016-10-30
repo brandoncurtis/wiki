@@ -1,6 +1,6 @@
 ---
-title: Book: The Personal MBA
-permalink: /Book:_The_Personal_MBA/
+title: Book The Personal MBA
+permalink: /Book_The_Personal_MBA/
 ---
 
 Why Read This Book?

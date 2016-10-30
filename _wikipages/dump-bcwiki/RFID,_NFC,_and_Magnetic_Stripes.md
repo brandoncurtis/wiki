@@ -1,6 +1,6 @@
 ---
-title: RFID, NFC, and Magnetic Stripes
-permalink: /RFID,_NFC,_and_Magnetic_Stripes/
+title: RFID NFC and Magnetic Stripes
+permalink: /RFID_NFC_and_Magnetic_Stripes/
 ---
 
 Magnetic Strip Card Readers

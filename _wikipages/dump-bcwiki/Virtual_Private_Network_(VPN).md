@@ -1,6 +1,6 @@
 ---
-title: Virtual Private Network (VPN)
-permalink: /Virtual_Private_Network_(VPN)/
+title: Virtual Private Network
+permalink: Virtual_Private_Network
 ---
 
 How To

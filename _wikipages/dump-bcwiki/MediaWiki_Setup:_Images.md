@@ -1,6 +1,6 @@
 ---
-title: MediaWiki Setup: Images
-permalink: /MediaWiki_Setup:_Images/
+title: MediaWiki Setup Images
+permalink: /MediaWiki_Setup_Images/
 ---
 
 Standard Setup

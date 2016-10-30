@@ -1,6 +1,6 @@
 ---
 title: Light Sources
-permalink: /Light_Sources/
+permalink: light-sources
 ---
 
 Ultraviolet

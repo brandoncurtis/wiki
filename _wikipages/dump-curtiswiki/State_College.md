@@ -1,6 +1,7 @@
 ---
 title: State College
-permalink: /State_College/
+permalink: state-college
+category: travel
 ---
 
 Hiking

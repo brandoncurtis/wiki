@@ -1,6 +1,6 @@
 ---
 title: State College Hackerspaces
-permalink: /State_College_Hackerspaces/
+permalink: state-college-hackerspaces
 ---
 
 MakeSpace

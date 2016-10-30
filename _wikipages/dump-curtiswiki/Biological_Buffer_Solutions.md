@@ -1,6 +1,6 @@
 ---
 title: Biological Buffer Solutions
-permalink: /Biological_Buffer_Solutions/
+permalink: biological-buffer-solutions
 ---
 
 Buffer Tables

@@ -1,6 +1,6 @@
 ---
-title: MediaWiki Setup: Google Analytics
-permalink: /MediaWiki_Setup:_Google_Analytics/
+title: MediaWiki Setup Google Analytics
+permalink: /MediaWiki_Setup_Google_Analytics/
 ---
 
 Google Analytics Integration
