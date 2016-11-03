@@ -1,8 +1,8 @@
 ---
 layout: default
+category: software
 title: Plotting in Python
 permalink: p/plotting
-category: software
 ---
 
 ## Colormaps

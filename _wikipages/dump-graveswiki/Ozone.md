@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Ozone
-permalink: /Ozone/
+permalink: p/ozone
 ---
 
 Production in Plasma
