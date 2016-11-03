@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Nitrogen Oxides
-permalink: /Nitrogen_Oxides/
+permalink: p/nitrogen-oxides
 ---
 
 Spectrophotometric Assays

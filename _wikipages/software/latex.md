@@ -1,8 +1,8 @@
 ---
 layout: default
+category: software
 title: LaTeX Document Typesetting
 permalink: p/latex
-category: software
 ---
 
 

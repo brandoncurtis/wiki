@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Materials Compatibility
-permalink: /Materials_Compatibility/
+permalink: p/materials-compatibility
 ---
 
 Ultraviolet Resistance

@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Nitric Oxide
-permalink: /Nitric_Oxide/
+permalink: p/nitric-oxide
 ---
 
 Production in Plasma

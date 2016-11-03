@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Open Source Software
-permalink: /Open_Source_Software/
+permalink: p/open-source-software
 ---
 
 Schematic Design
