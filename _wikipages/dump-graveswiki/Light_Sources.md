@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Light Sources
-permalink: graveslab-light-sources
+permalink: p/graveslab-light-sources
 ---
 
 Ultraviolet

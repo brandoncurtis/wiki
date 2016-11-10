@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Hydrogen Peroxide
-permalink: /Hydrogen_Peroxide/
+permalink: p/hydrogen-peroxide
 ---
 
 Production in Plasma

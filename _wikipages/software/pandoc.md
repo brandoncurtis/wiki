@@ -1,8 +1,8 @@
 ---
 layout: default
+category: software
 title: Pandoc Text Converter
 permalink: p/pandoc
-category: software
 math: True
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
+category: software
 title: Git and Github
 permalink: p/git
-category: software
 ---
 
 <https://www.linux.com/learn/finding-everything-git>

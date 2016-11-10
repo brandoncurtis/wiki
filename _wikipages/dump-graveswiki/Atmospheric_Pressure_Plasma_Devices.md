@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Atmospheric Pressure Plasma Devices
-permalink: /Atmospheric_Pressure_Plasma_Devices/
+permalink: p/atmospheric-pressure-plasma-devices
 ---
 
 Plasma Jets

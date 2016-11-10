@@ -2,7 +2,7 @@
 layout: default
 category: misc
 title: Plasma Math
-permalink: /Plasma_Math/
+permalink: p/plasma-math
 ---
 
 Poisson's Equation
