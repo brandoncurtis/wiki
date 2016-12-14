@@ -1,6 +1,8 @@
 ---
-title: Virtual Private Network
-permalink: Virtual_Private_Network
+layout: default
+category: software
+title: Virtual Private Networks
+permalink: p/vpn
 ---
 
 How To
