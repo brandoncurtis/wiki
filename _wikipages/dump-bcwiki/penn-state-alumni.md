@@ -1,4 +1,6 @@
 ---
+layout: default
+category: etc
 title: Penn State Alumni Association
 permalink: p/penn-state-alumni
 ---
