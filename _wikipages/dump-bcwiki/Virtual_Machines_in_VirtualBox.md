@@ -1,6 +1,8 @@
 ---
+layout: default
+category: software
 title: Virtual Machines in VirtualBox
-permalink: /Virtual_Machines_in_VirtualBox/
+permalink: p/virtualbox
 ---
 
 Ubuntu 16.04

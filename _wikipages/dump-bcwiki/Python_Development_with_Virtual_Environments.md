@@ -1,6 +1,8 @@
 ---
+layout: default
+category: software
 title: Python Development with Virtual Environments
-permalink: /Python_Development_with_Virtual_Environments/
+permalink: p/virtualenv
 ---
 
 Topics to cover:
