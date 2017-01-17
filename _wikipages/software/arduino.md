@@ -5,6 +5,15 @@ title: Arduino Hacking
 permalink: p/arduino
 ---
 
+The Arduino does an excellent job of abstracting away the implementation details of a microcontroller and allowing the user to think about it as a collection of easy-to-use high-level functions.
+
+### Compile and Upload from the CLI
+
+You can upload code to an Arduino using the command-line interface:
+
+`arduino --upload --port /dev/arduino --board arduino:avr:uno filename.ino
+
+
 ### Programmatic Resets
 
 Lots of discussion in the [Disabling AutoReset on Serial Connection](http://playground.arduino.cc/Main/DisablingAutoResetOnSerialConnection) page on the Arduino site.
@@ -29,9 +38,6 @@ Now that you know what controls the Arduino reset, you can even reset it yoursel
     >>> arduino.setDTR(False); sleep(1); arduino.flushInput(); arduino.setDTR(True)
 
 More notes on these ideas:
-
-    The Arduino does an excellent job of abstracting away the implementation details of a     microcontroller and allowing the user to think about it as a collection of easy-to-use high-level     functions.
-
 
     Wait on Arduino auto-reset using pySerial
     https://stackoverflow.com/questions/21073086/wait-on-arduino-auto-reset-using-pyserial
