@@ -3,6 +3,7 @@ layout: default
 category: finance
 title: Philanthropy
 permalink: p/philanthropy
+featured: true
 ---
 
 ## Bicycle Advocacy
