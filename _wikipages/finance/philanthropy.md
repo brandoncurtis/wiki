@@ -210,3 +210,30 @@ https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=061656917
 > Heres a solution. Don't pay for any corporate movie, TV, muzak and textbooks (stream, pirate, public) and split the savings with Crash course. The fact that crash course allows consumption without payment makes them more deserving. Their independence is unique and valuable. Its not Texas Textbook history. Any understanding of law, politics, society should be grounded in world and national history. They're good entertainment. I'm watching several daily (no cable or even netflix) . But, look at how 25$ goes any other way of education. Thats like a few minutes of lecture time at a private university, 0.4-1.2% of public school spending per student (Utah-NY). And unlike local tax money, its democratic. Education is fucked in america. Charities a horrible substitute for justice, but I feel a little better about the future knowing theres resources for people deprived engaging, talented educators.
 >
 > Exactly. American capitalism is built on unnecessary consumption. Consume less, and make that consumption more meaningful, or humanity doesn't have much of a shot of a livable climate. To me, Crash Course also demonstrates you can have great entertainment that is edifying and free for all. That's worth paying for.
+
+<pre>
+
+Giving What We Can
+	https://www.givingwhatwecan.org/
+	Run by the Centre for Effective Altruism
+		https://www.centreforeffectivealtruism.org/
+	Against Malaria Foundation
+		https://www.givingwhatwecan.org/charity/against-malaria-foundation/
+	Schistosomiasis Control Initiative
+		https://www.givingwhatwecan.org/charity/schistosomiasis-control-initiative/
+	Deworm The World Initiative
+		https://www.givingwhatwecan.org/charity/deworm-the-world-initiative/
+	Project Healthy Children
+		https://www.givingwhatwecan.org/charity/project-healthy-children/
+
+
+http://www.focusingphilanthropy.org/r
+
+
+## One Acre Fund
+
+https://www.oneacrefund.org/
+
+http://www.focusingphilanthropy.org/registryitem.asp?ID=827&title=One%20Acre%20Fund%20
+"The Founders of Focusing Philanthropy donate to One Acre Fund personally."
+</pre>
