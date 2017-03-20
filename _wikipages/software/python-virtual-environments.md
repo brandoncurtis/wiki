@@ -3,6 +3,7 @@ layout: default
 category: software
 title: Python Development with Virtual Environments
 permalink: p/virtualenv
+featured: true
 ---
 
 Topics to cover:

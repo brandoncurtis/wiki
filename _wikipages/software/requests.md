@@ -74,3 +74,14 @@ for row in [a[i:i+cols] for i in range(0,len(a),cols)]:
 ```
 
 Am I being dumb here?  Is there a better way?
+
+
+##### References
+
+Bash Hackers Syntax Wiki: http://wiki.bash-hackers.org/syntax/arrays
+
+Bash Printf Syntax Basics: https://linuxconfig.org/bash-printf-syntax-basics-with-examples
+
+"If there are more arguments than specifiers the format string is reused until all arguments had been depleted. "
+
+

@@ -3,6 +3,7 @@ layout: default
 category: software
 title: Virtual Machines in VirtualBox
 permalink: p/virtualbox
+featured: true
 ---
 
 Ubuntu 16.04

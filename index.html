@@ -13,13 +13,13 @@ title: Welcome
 	</ul>
 
 	<h3>Featured Articles</h3>
-	<p>
+	<ul class="wikipages">
 	  {% for wikipage in site.wikipages %}
 	  {% if wikipage.featured == true %}
 	    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
 	  {% endif %}
 	  {% endfor %}
-	</p>
+	</ul>
 
 	<p>
 		This wiki is written in Markdown and Liquid, configured with YAML, processed by Jekyll, and served by GitHub.
