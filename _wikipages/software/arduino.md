@@ -15,6 +15,8 @@ The Arduino does an excellent job of abstracting away the implementation details
 
 (here are some additional changes!)
 
+(and some more!)
+
 ### Compile and Upload from the CLI
 
 You can upload code to an Arduino using the command-line interface:

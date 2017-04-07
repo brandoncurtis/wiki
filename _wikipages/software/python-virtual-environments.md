@@ -1,9 +1,12 @@
 ---
 layout: default
 category: software
-title: Python Development with Virtual Environments
 permalink: p/virtualenv
 featured: true
+title: Python Development with Virtual Environments
+description: Keep your Python development organized with virtual environments.
+image: /images/bc-suit.jpg
+author: brandoncurtis
 ---
 
 Topics to cover:
@@ -11,6 +14,8 @@ Topics to cover:
 -   Pip
 -   Virtualenv
 -   Virtualenvwrapper
+
+(another small change to test the jekyll-feed plugin)
 
 Python Install Python (PIP)
 ---------------------------

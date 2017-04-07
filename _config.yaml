@@ -23,4 +23,4 @@ jekyll-mentions:
   base-url: https://github.com
 
 feed:
-  path: atom.xml
+  path: /feed.xml
