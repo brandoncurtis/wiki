@@ -3,6 +3,7 @@ markdown: kramdown
 encoding: utf-8
 timezone: America/Los_Angeles
 baseurl: "/wiki"
+url: https://brandoncurtis.github.io/wiki
 logo: /images/bc-suit.jpg
 description: BC Wiki. tech, finance, and nonsense via GitHub Pages.
 
