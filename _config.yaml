@@ -3,6 +3,8 @@ markdown: kramdown
 encoding: utf-8
 timezone: America/Los_Angeles
 baseurl: "/wiki"
+logo: /images/bc-suit.jpg
+description: BC Wiki: tech, finance, and nonsense via GitHub Pages.
 
 collections:
   wikipages:

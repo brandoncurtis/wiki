@@ -5,6 +5,7 @@ permalink: p/arduino
 featured: true
 title: Arduino Hacking
 description: Getting the most out of the Arduino hardware prototyping system
+image: /images/bc-suit.jpg
 author: brandoncurtis
 ---
 
