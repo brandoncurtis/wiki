@@ -1,9 +1,11 @@
 ---
 layout: default
 category: software
-title: Arduino Hacking
 permalink: p/arduino
 featured: true
+title: Arduino Hacking
+description: Getting the most out of the Arduino hardware prototyping system
+author: brandoncurtis
 ---
 
 The Arduino does an excellent job of abstracting away the implementation details of a microcontroller and allowing the user to think about it as a collection of easy-to-use high-level functions.

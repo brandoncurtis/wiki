@@ -9,3 +9,6 @@ collections:
     output: true
   wikihubs:
     output: true
+
+gems:
+  - jekyll-seo-tag
