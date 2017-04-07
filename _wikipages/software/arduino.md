@@ -13,6 +13,8 @@ The Arduino does an excellent job of abstracting away the implementation details
 
 (Here are some minor changes to test the jekyll-feed plugin!)
 
+(here are some additional changes!)
+
 ### Compile and Upload from the CLI
 
 You can upload code to an Arduino using the command-line interface:
