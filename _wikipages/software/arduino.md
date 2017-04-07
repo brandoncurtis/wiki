@@ -11,6 +11,8 @@ author: brandoncurtis
 
 The Arduino does an excellent job of abstracting away the implementation details of a microcontroller and allowing the user to think about it as a collection of easy-to-use high-level functions.
 
+(Here are some minor changes to test the jekyll-feed plugin!)
+
 ### Compile and Upload from the CLI
 
 You can upload code to an Arduino using the command-line interface:
