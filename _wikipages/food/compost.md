@@ -1,6 +1,6 @@
 ---
 layout: default
-category: diy
+category: food
 title: Composting
 permalink: p/composting
 ---

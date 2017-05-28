@@ -1,6 +1,7 @@
 ---
 title: Food Fermentation
-permalink: /Food_Fermentation/
+permalink: p/fermentation
+category: food
 ---
 
 For a step-by-step introductory tutorial, check out [my article on food fermentation](http://www.andhigherstill.com/2013/05/thrift-is-beautiful-fermentation.html) at the AHS Blog!

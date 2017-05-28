@@ -1,6 +1,7 @@
 ---
 title: Homemade Yogurt
-permalink: /Homemade_Yogurt/
+permalink: p/yogurt
+category: food
 ---
 
 Turn a small amount of commercial yogurt (or your own yogurt starter) into a large amount of custom yogurt!

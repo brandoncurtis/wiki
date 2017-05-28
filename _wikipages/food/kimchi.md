@@ -1,6 +1,7 @@
 ---
 title: Homemade Kimchi
-permalink: /Homemade_Kimchi/
+permalink: p/kimchi
+category: food
 ---
 
 Kimchi is a delicious traditional Korean fermented vegetable dish. It is very easy to make at home.

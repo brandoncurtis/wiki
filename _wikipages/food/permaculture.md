@@ -1,6 +1,7 @@
 ---
 title: Permaculture
-permalink: /Permaculture/
+permalink: p/permaculture
+category: food
 ---
 
 References

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homemade Cheese
-permalink: p/homemade-cheese
+permalink: p/cheese
 category: food
 ---
 

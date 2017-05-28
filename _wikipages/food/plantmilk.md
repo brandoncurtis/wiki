@@ -1,6 +1,7 @@
 ---
 title: Homemade Plant Milks
-permalink: /Homemade_Plant_Milks/
+permalink: p/plantmilk
+category: food
 ---
 
 Almond Milk

@@ -1,6 +1,7 @@
 ---
 title: Homemade Kefir
-permalink: /Homemade_Kefir/
+permalink: p/kefir
+category: food
 ---
 
 Kefir is delicious. Let's optimize it.

@@ -1,6 +1,7 @@
 ---
 title: Food and Nutrition Information
-permalink: /Food_and_Nutrition_Information/
+permalink: p/nutrition
+category: food
 ---
 
 Food APIs
