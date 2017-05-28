@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homemade Cheese
+title: Cheesemaking
 permalink: p/cheese
 category: food
 ---

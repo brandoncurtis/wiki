@@ -1,5 +1,5 @@
 ---
-title: Homemade Kefir
+title: Kefir Fermentation
 permalink: p/kefir
 category: food
 ---

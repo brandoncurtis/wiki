@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Low-Meat Diet
-permalink: p/low-meat-diet
+title: Vegetarianism
+permalink: p/vegetarianism.md
 category: food
 ---
 

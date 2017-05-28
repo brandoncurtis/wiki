@@ -1,5 +1,5 @@
 ---
-title: Homemade Kimchi
+title: Kimchi Fermentation
 permalink: p/kimchi
 category: food
 ---

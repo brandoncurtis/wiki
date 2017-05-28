@@ -1,5 +1,5 @@
 ---
-title: Homemade Plant Milks
+title: Plant Milks
 permalink: p/plantmilk
 category: food
 ---

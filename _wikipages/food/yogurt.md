@@ -1,5 +1,5 @@
 ---
-title: Homemade Yogurt
+title:  Yogurt Fermentation
 permalink: p/yogurt
 category: food
 ---
