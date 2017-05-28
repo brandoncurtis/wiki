@@ -1,3 +1,9 @@
+---
+layout: default
+category: software
+title: Oximeter DIY
+permalink: p/oximeter
+---
 
 
 

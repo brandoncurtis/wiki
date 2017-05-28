@@ -1,3 +1,9 @@
+---
+layout: default
+category: software
+title: QT in Python
+permalink: p/pyqt
+---
 
 
 
