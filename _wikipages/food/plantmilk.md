@@ -2,6 +2,7 @@
 title: Plant Milks
 permalink: p/plantmilk
 category: food
+layout: default
 ---
 
 Almond Milk

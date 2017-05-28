@@ -2,6 +2,7 @@
 title: Kimchi Fermentation
 permalink: p/kimchi
 category: food
+layout: default
 ---
 
 Kimchi is a delicious traditional Korean fermented vegetable dish. It is very easy to make at home.

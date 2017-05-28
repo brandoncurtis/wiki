@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recipe - Stuffed Peppers
-permalink: p/recipe-stuffed-peppers
+permalink: p/stuffed-peppers
 category: food
 ---
 
