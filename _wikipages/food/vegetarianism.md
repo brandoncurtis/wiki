@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vegetarianism
-permalink: p/vegetarianism.md
+permalink: p/vegetarianism
 category: food
 ---
 
