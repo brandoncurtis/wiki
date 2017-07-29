@@ -1,6 +1,6 @@
 ---
 title: Electrical Connectors
-permalink: /Electrical_Connectors/
+permalink: "/Electrical_Connectors/"
 ---
 
 D-Subminiature Connectors with Solder Cups

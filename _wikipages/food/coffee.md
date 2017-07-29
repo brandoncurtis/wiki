@@ -1,8 +1,8 @@
 ---
-layout: default
-category: food
 title: Coffee
 permalink: p/coffee
+layout: default
+category: food
 ---
 
 # Grinders

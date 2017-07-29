@@ -1,6 +1,6 @@
 ---
 title: Configuring Ubuntu 16.04 LTS
-permalink: /Configuring_Ubuntu_16.04_LTS/
+permalink: "/Configuring_Ubuntu_16.04_LTS/"
 ---
 
 Software Installation

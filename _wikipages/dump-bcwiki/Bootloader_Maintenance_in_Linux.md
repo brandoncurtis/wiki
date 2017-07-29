@@ -1,6 +1,6 @@
 ---
 title: Bootloader Maintenance in Linux
-permalink: /Bootloader_Maintenance_in_Linux/
+permalink: "/Bootloader_Maintenance_in_Linux/"
 ---
 
 Background

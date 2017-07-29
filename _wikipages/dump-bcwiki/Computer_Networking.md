@@ -1,6 +1,6 @@
 ---
 title: Computer Networking
-permalink: /Computer_Networking/
+permalink: "/Computer_Networking/"
 ---
 
 Resources

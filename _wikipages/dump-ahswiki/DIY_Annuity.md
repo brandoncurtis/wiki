@@ -1,8 +1,8 @@
 ---
+title: DIY Annuity
+permalink: "/DIY_Annuity/"
 layout: default
 category: finance
-title: DIY Annuity
-permalink: /DIY_Annuity/
 ---
 
 DIY Single Premium Immediate Annuity (SPIA)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Cheesemaking
 permalink: p/cheese
+layout: default
 category: food
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: To Sort
 permalink: p/to-sort
+layout: default
+category: misc
 ---
 
 Measure for Measure, Index Funds Rule <http://www.nytimes.com/2015/04/05/your-money/measure-for-measure-index-funds-rule.html>

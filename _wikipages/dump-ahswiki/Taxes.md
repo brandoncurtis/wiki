@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Taxes
 permalink: p/taxes
+layout: default
 category: finance
 ---
 

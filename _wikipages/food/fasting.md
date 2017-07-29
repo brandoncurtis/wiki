@@ -1,8 +1,8 @@
 ---
-layout: default
-category: food
 title: Fasting
 permalink: p/fasting
+layout: default
+category: food
 ---
 
 Intermittent all-day fasting, for men at least, provides significant health benefits that are supported by the academic literature. Fasting appears to have a net negative effect on women.

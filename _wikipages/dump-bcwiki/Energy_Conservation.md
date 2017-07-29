@@ -1,6 +1,6 @@
 ---
 title: Energy Conservation
-permalink: /Energy_Conservation/
+permalink: "/Energy_Conservation/"
 ---
 
 Our electricity provider is Pacific Gas & Electric (PG&E). In July 2014, we switched our electricity rate plan from a constant 13-14 cents/kWh to a time-of-usage–based plan: <http://www.pge.com/en/myhome/saveenergymoney/plans/tou/index.page>

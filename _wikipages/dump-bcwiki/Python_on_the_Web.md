@@ -1,6 +1,6 @@
 ---
 title: Python on the Web
-permalink: /Python_on_the_Web/
+permalink: "/Python_on_the_Web/"
 ---
 
 Installing Apache and Flask

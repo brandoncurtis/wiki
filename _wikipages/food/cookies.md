@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Homemade Cookies
 permalink: p/homemade-cookies
+layout: default
 category: food
 ---
 

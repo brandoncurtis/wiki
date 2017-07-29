@@ -1,6 +1,6 @@
 ---
 title: Civic Engagement
-permalink: /Civic_Engagement/
+permalink: "/Civic_Engagement/"
 ---
 
 Voting

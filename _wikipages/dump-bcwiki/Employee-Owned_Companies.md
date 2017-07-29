@@ -1,6 +1,6 @@
 ---
 title: Employee-Owned Companies
-permalink: /Employee-Owned_Companies/
+permalink: "/Employee-Owned_Companies/"
 ---
 
 Employee Ownership

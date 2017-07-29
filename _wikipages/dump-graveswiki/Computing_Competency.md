@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Computing Competency
 permalink: p/computing-competency
+layout: default
+category: misc
 ---
 
 Resources

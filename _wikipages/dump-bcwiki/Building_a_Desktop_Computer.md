@@ -1,6 +1,6 @@
 ---
 title: Building a Desktop Computer
-permalink: /Building_a_Desktop_Computer/
+permalink: "/Building_a_Desktop_Computer/"
 ---
 
 Solid State Hard Drives (SSDs)

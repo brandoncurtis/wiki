@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Plasma Medicine Ventures
 permalink: p/plasma-medicine-ventures
+layout: default
+category: misc
 ---
 
 Plasma Disinfection

@@ -1,6 +1,6 @@
 ---
 title: Electronic Circuit Schematic Software
-permalink: /Electronic_Circuit_Schematic_Software/
+permalink: "/Electronic_Circuit_Schematic_Software/"
 ---
 
 KICAD

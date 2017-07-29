@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Open Source Software
 permalink: p/open-source-software
+layout: default
+category: misc
 ---
 
 Schematic Design

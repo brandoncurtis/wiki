@@ -1,11 +1,12 @@
 ---
+title: Arduino Hacking
+permalink: p/arduino
 layout: default
 category: software
-permalink: p/arduino
 featured: true
-title: Arduino Hacking
-description: Tools and techniques for getting the most out of the Arduino hardware prototyping system.
-image: /images/bc-suit.jpg
+description: Tools and techniques for getting the most out of the Arduino hardware
+  prototyping system.
+image: "/images/bc-suit.jpg"
 author: brandoncurtis
 ---
 

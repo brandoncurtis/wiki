@@ -1,6 +1,6 @@
 ---
 title: Mesh Networks
-permalink: /Mesh_Networks/
+permalink: "/Mesh_Networks/"
 ---
 
 Amateur Radio Mesh Networks

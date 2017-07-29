@@ -1,8 +1,8 @@
 ---
-layout: default
-category: food
 title: Meal Replacement Experiments
 permalink: p/meal-replacement
+layout: default
+category: food
 ---
 
 goal: make a thing I can replace meals with when I'm ultra-busy.

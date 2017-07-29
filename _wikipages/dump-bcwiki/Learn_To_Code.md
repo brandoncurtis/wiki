@@ -1,6 +1,6 @@
 ---
 title: Learn To Code
-permalink: /Learn_To_Code/
+permalink: "/Learn_To_Code/"
 ---
 
 Recommended Languages

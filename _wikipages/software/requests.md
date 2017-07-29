@@ -1,11 +1,9 @@
 ---
-layout: default
 title: How Do I...?
 permalink: p/requests
+layout: default
 category: software
 ---
-
-
 
 ### Overview
 

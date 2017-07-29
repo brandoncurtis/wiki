@@ -1,6 +1,6 @@
 ---
 title: Teaching Strategies
-permalink: /Teaching_Strategies/
+permalink: "/Teaching_Strategies/"
 ---
 
 Ideas

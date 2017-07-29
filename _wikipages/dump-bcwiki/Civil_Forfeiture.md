@@ -1,6 +1,6 @@
 ---
 title: Civil Forfeiture
-permalink: /Civil_Forfeiture/
+permalink: "/Civil_Forfeiture/"
 ---
 
 [Last Week Tonight with John Oliver: Civil Forfeiture](https://www.youtube.com/watch?v=3kEpZWGgJks)

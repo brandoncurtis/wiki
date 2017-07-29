@@ -1,5 +1,5 @@
 ---
-title:  Yogurt Fermentation
+title: Yogurt Fermentation
 permalink: p/yogurt
 category: food
 layout: default

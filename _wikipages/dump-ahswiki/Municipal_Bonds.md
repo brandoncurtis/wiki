@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Municipal Bonds
 permalink: p/municipal-bonds
+layout: default
 category: finance
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Staying Healthy
-permalink: /Staying_Healthy/
+permalink: "/Staying_Healthy/"
 ---
 
 Being retired is a lot more fun (and a lot less expensive) if you're in good health.

@@ -1,6 +1,6 @@
 ---
 title: Wordpress Configuration
-permalink: /Wordpress_Configuration/
+permalink: "/Wordpress_Configuration/"
 ---
 
 [Wordpress plugin library](http://wordpress.org/plugins/)

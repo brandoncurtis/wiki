@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Wikis
 permalink: p/wikis
+layout: default
 category: software
 ---
 

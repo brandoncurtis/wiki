@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Atmospheric Pressure Plasma Devices
 permalink: p/atmospheric-pressure-plasma-devices
+layout: default
+category: misc
 ---
 
 Plasma Jets

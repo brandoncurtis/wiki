@@ -1,8 +1,8 @@
 ---
-layout: default
-category: travel
 title: State College Hackerspaces
 permalink: p/state-college-hackerspaces
+layout: default
+category: travel
 ---
 
 MakeSpace

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Stepper Motors
 permalink: p/stepper-motors
+layout: default
+category: diy
 ---
 
 Working with Stepper Motors

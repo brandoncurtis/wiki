@@ -1,6 +1,6 @@
 ---
 title: Google Voice
-permalink: /Google_Voice/
+permalink: "/Google_Voice/"
 ---
 
 Integration with Google Hangouts

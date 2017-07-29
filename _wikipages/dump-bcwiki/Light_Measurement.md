@@ -1,6 +1,6 @@
 ---
 title: Light Measurement
-permalink: /Light_Measurement/
+permalink: "/Light_Measurement/"
 ---
 
 Choosing a Detector

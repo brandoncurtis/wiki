@@ -1,6 +1,6 @@
 ---
 title: Community Book Lending
-permalink: /Community_Book_Lending/
+permalink: "/Community_Book_Lending/"
 ---
 
 Open Library Resources

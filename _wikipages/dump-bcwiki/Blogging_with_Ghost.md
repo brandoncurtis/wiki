@@ -1,6 +1,6 @@
 ---
 title: Blogging with Ghost
-permalink: /Blogging_with_Ghost/
+permalink: "/Blogging_with_Ghost/"
 ---
 
 Deploying Ghost with Forever

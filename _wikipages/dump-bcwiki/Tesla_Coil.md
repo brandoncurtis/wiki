@@ -1,6 +1,6 @@
 ---
 title: Tesla Coil
-permalink: /Tesla_Coil/
+permalink: "/Tesla_Coil/"
 ---
 
 Winding the Secondary

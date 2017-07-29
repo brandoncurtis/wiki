@@ -1,6 +1,6 @@
 ---
 title: Open Source CRM Software
-permalink: /Open_Source_CRM_Software/
+permalink: "/Open_Source_CRM_Software/"
 ---
 
 If your project starts to grow so large and complicated that you can no longer keep track of all of your clients in a simple spreadsheet, it may be time to upgrade to Customer Relationship Management (CRM) software.

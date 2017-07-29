@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Virtual Private Networks
 permalink: p/vpn
+layout: default
+category: software
 ---
 
 How To

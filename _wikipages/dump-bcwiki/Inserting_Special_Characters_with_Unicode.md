@@ -1,6 +1,6 @@
 ---
 title: Inserting Special Characters with Unicode
-permalink: /Inserting_Special_Characters_with_Unicode/
+permalink: "/Inserting_Special_Characters_with_Unicode/"
 ---
 
 It is VERY slow going to type something up that contains large numbers of nonstandard symbols if you rely on the 'insert special characters' menus in Microsoft Word or Google Docs. Fortunately, there is a better way.

@@ -1,8 +1,8 @@
 ---
+title: Google Chrome Remote
+permalink: "/Google_Chrome_Remote/"
 layout: default
 category: software
-title: Google Chrome Remote
-permalink: /Google_Chrome_Remote/
 ---
 
 Attaching to the Existing X Session in Ubuntu

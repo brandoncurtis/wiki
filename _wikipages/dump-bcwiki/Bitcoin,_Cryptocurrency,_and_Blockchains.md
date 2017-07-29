@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Cryptocurrency and Blockchains
-permalink: /Bitcoin_Cryptocurrency_and_Blockchains/
+permalink: "/Bitcoin_Cryptocurrency_and_Blockchains/"
 ---
 
 [thumbnail|the Bitcoin logo|200px](/File:bitcoin-logo.png "wikilink")

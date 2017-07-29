@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Become a Registered Investment Advisor
 permalink: p/registered-investment-advisor
+layout: default
+category: finance
 ---
 
 The Series 65 Exam

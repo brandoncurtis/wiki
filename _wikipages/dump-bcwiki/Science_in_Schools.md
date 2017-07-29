@@ -1,6 +1,6 @@
 ---
 title: Science in Schools
-permalink: /Science_in_Schools/
+permalink: "/Science_in_Schools/"
 ---
 
 Cabbage pH Indicator

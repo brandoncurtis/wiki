@@ -1,6 +1,6 @@
 ---
 title: Finance and Relationships
-permalink: /Finance_and_Relationships/
+permalink: "/Finance_and_Relationships/"
 ---
 
 [WSJ: How couples can resolve their biggest fights over money](http://www.wsj.com/articles/how-couples-can-resolve-their-biggest-fights-over-money-1428895317)

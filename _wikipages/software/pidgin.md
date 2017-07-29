@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Pidgin IM Client
 permalink: p/pidgin
+layout: default
+category: software
 ---
 
 ### Google Hangouts and Voice

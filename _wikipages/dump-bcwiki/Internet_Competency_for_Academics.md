@@ -1,6 +1,6 @@
 ---
 title: Internet Competency for Academics
-permalink: /Internet_Competency_for_Academics/
+permalink: "/Internet_Competency_for_Academics/"
 ---
 
 Conference Presentations

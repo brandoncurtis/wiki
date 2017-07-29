@@ -1,6 +1,6 @@
 ---
 title: Time Tracking
-permalink: /Time_Tracking/
+permalink: "/Time_Tracking/"
 ---
 
 Timetracking Web Applications

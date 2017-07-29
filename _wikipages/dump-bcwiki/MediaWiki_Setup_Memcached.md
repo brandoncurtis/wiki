@@ -1,6 +1,6 @@
 ---
 title: MediaWiki Setup Memcached
-permalink: /MediaWiki_Setup_Memcached/
+permalink: "/MediaWiki_Setup_Memcached/"
 ---
 
 MediaWiki performance can be improved on large, high-traffic sites by installing and enabling memchached. See [Mediawiki: Memcached](http://www.mediawiki.org/wiki/Memcached) for details.

@@ -1,6 +1,6 @@
 ---
 title: Docker for Server Deployment
-permalink: /Docker_for_Server_Deployment/
+permalink: "/Docker_for_Server_Deployment/"
 ---
 
 Installing Docker

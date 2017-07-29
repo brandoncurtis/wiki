@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Amateur Radio
 permalink: p/amateur-radio
+layout: default
+category: diy
 ---
 
 Getting Licensed

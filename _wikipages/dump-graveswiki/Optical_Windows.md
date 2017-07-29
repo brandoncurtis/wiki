@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Optical Windows
 permalink: p/optical-windows
+layout: default
+category: diy
 ---
 
 Material Selection

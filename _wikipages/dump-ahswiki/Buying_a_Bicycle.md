@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Buying a Bicycle
 permalink: p/buying-a-bicycle
+layout: default
+category: finance
 ---
 
 This [Google Doc](https://docs.google.com/document/d/1vTktg8F1WdZGhXJ5_QWkSvLWKdBysu5oGGSYWO9LIIk/edit) has a lot of information; will port it over.

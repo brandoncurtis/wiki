@@ -1,6 +1,6 @@
 ---
 title: Create a Linux Multiboot USB Drive
-permalink: /Create_a_Linux_Multiboot_USB_Drive/
+permalink: "/Create_a_Linux_Multiboot_USB_Drive/"
 ---
 
 This procedure will create a USB drive from which you can boot pretty much any Linux ISOs that you'd like.

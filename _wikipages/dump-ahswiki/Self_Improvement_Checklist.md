@@ -1,6 +1,6 @@
 ---
 title: Self Improvement Checklist
-permalink: /Self_Improvement_Checklist/
+permalink: "/Self_Improvement_Checklist/"
 ---
 
 A sample checklist to get you started!

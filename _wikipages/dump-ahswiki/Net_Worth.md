@@ -1,6 +1,6 @@
 ---
 title: Net Worth
-permalink: /Net_Worth/
+permalink: "/Net_Worth/"
 ---
 
 It may be easier than you think to join the ranks of the economic elite, even when you only consider the US.

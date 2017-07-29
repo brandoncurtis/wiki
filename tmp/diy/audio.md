@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Audio
 permalink: p/audio
+layout: default
+category: diy
 ---
 
 Audio Quality

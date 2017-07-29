@@ -1,6 +1,6 @@
 ---
 title: Open Source Router Firmware
-permalink: /Open_Source_Router_Firmware/
+permalink: "/Open_Source_Router_Firmware/"
 ---
 
 Asus RT-N56U

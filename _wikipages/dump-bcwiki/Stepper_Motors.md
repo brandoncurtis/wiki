@@ -1,6 +1,6 @@
 ---
 title: Stepper Motors
-permalink: /Stepper_Motors/
+permalink: "/Stepper_Motors/"
 ---
 
 Stepper Basics

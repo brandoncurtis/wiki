@@ -1,6 +1,6 @@
 ---
 title: DIY Laboratory Equipment
-permalink: /DIY_Laboratory_Equipment/
+permalink: "/DIY_Laboratory_Equipment/"
 ---
 
 Lab equipment is expensive. Let's make it cheaper.

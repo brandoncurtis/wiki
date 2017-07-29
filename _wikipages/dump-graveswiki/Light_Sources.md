@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Light Sources
 permalink: p/graveslab-light-sources
+layout: default
+category: misc
 ---
 
 Ultraviolet

@@ -1,6 +1,6 @@
 ---
 title: High Voltage DIY Community
-permalink: /High_Voltage_DIY_Community/
+permalink: "/High_Voltage_DIY_Community/"
 ---
 
 DIY HV Luminaries

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Urbit
 permalink: p/urbit
+layout: default
 category: software
 ---
 

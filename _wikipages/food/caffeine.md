@@ -1,8 +1,8 @@
 ---
-layout: default
-category: food
 title: Caffeine
 permalink: p/caffeine
+layout: default
+category: food
 featured: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Configuring Ubuntu 14.04 LTS
-permalink: /Configuring_Ubuntu_14.04_LTS/
+permalink: "/Configuring_Ubuntu_14.04_LTS/"
 ---
 
 Install

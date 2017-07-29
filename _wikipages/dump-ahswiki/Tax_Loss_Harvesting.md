@@ -1,10 +1,9 @@
 ---
-layout: default
 title: Tax Loss Harvesting
 permalink: p/tax-loss-harvesting
+layout: default
 category: finance
 ---
-
 
 <http://www.investopedia.com/articles/taxes/08/tax-loss-harvesting.asp>
 

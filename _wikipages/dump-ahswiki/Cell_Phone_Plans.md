@@ -1,9 +1,8 @@
 ---
-layout: default
-category: finance
 title: Cell Phone Plans
 permalink: p/cell-phone-plans
-
+layout: default
+category: finance
 ---
 
 Cell phone service in the USA has been dominated by four large players with partial monopolies and long contracts. This resulted in substantially higher costs than more developed (aka real) markets like Europe. This has recently been changing substantially and US cellular networks were forced to open up bandwidth to third party players. This means that you were over paying for cell service and can now do something about it. There are a number of players each catering to different usage scenarios, geographic areas, and network standards. It might be a bit confusing but a little shopping will pay off.

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Virtual Machines in VirtualBox
 permalink: p/virtualbox
+layout: default
+category: software
 featured: true
 ---
 

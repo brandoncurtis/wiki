@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Sensors
 permalink: p/sensors
+layout: default
 category: diy
 ---
 

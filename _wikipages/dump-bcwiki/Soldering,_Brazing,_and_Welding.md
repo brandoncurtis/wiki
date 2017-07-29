@@ -1,6 +1,6 @@
 ---
 title: Soldering Brazing and Welding
-permalink: /Soldering_Brazing_and_Welding/
+permalink: "/Soldering_Brazing_and_Welding/"
 ---
 
 Soldering

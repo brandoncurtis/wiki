@@ -1,6 +1,6 @@
 ---
 title: Open Notebook Science
-permalink: /Open_Notebook_Science/
+permalink: "/Open_Notebook_Science/"
 ---
 
 References

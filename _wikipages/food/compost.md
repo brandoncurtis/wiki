@@ -1,8 +1,8 @@
 ---
-layout: default
-category: food
 title: Composting
 permalink: p/composting
+layout: default
+category: food
 ---
 
 Why Compost?

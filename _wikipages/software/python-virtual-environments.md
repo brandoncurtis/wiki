@@ -1,11 +1,11 @@
 ---
+title: Python Development with Virtual Environments
+permalink: p/virtualenv
 layout: default
 category: software
-permalink: p/virtualenv
 featured: true
-title: Python Development with Virtual Environments
 description: Keep your Python development organized with virtual environments.
-image: /images/bc-suit.jpg
+image: "/images/bc-suit.jpg"
 author: brandoncurtis
 ---
 

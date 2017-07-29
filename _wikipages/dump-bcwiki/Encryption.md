@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Encryption
 permalink: p/encryption
+layout: default
 category: software
 ---
 

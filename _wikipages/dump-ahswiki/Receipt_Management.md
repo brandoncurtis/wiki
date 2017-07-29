@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Receipt Management
 permalink: p/receipt-management
+layout: default
 category: finance
 ---
 

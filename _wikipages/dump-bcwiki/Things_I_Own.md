@@ -1,6 +1,6 @@
 ---
 title: Things I Own
-permalink: /Things_I_Own/
+permalink: "/Things_I_Own/"
 ---
 
 Portable Electronics

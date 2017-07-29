@@ -1,6 +1,6 @@
 ---
 title: Personal Finance in Schools
-permalink: /Personal_Finance_in_Schools/
+permalink: "/Personal_Finance_in_Schools/"
 ---
 
 Consumer Finance Protection Bureau <http://www.consumerfinance.gov/>

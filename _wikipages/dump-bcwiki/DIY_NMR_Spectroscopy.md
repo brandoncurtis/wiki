@@ -1,6 +1,6 @@
 ---
 title: DIY NMR Spectroscopy
-permalink: /DIY_NMR_Spectroscopy/
+permalink: "/DIY_NMR_Spectroscopy/"
 ---
 
 NMR Basics

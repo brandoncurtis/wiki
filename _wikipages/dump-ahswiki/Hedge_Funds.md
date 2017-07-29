@@ -1,6 +1,6 @@
 ---
 title: Hedge Funds
-permalink: /Hedge_Funds/
+permalink: "/Hedge_Funds/"
 ---
 
 Hedge funds are expensive failures that succeed only in transferring money from very rich people to horrendously rich people. Be happy that you can't afford them.

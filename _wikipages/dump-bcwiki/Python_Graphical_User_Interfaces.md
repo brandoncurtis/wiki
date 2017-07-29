@@ -1,6 +1,6 @@
 ---
 title: Python Graphical User Interfaces
-permalink: /Python_Graphical_User_Interfaces/
+permalink: "/Python_Graphical_User_Interfaces/"
 ---
 
 Resources

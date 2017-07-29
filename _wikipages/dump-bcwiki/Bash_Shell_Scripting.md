@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Bash Shell Scripting
 permalink: p/bash-shell-scripting
+layout: default
+category: software
 ---
 
 [Geek Page – Scripting Languages](http://www.wired.com/1995/09/geek-32/) (Wired 1995)

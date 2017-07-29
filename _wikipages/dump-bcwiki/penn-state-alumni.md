@@ -1,8 +1,8 @@
 ---
-layout: default
-category: etc
 title: Penn State Alumni Association
 permalink: p/penn-state-alumni
+layout: default
+category: etc
 ---
 
 Accessing the [Alumni Society site](http://alumni.psu.edu/membership/benefits) now (2017) requires a Friends of Penn State (FPS) account.  This is different from your Alumni Society login information.

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Philanthropy
 permalink: p/philanthropy
+layout: default
+category: finance
 featured: true
 ---
 

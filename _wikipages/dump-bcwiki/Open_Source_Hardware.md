@@ -1,6 +1,6 @@
 ---
 title: Open Source Hardware
-permalink: /Open_Source_Hardware/
+permalink: "/Open_Source_Hardware/"
 ---
 
 Arduino

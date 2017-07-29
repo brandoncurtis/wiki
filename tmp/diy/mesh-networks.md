@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Mesh Networks
 permalink: p/mesh-networks
+layout: default
+category: diy
 ---
 
 Amateur Radio Mesh Networks

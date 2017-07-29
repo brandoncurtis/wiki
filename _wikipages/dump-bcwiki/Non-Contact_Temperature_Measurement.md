@@ -1,6 +1,6 @@
 ---
 title: Non-Contact Temperature Measurement
-permalink: /Non-Contact_Temperature_Measurement/
+permalink: "/Non-Contact_Temperature_Measurement/"
 ---
 
 Technical Challenges

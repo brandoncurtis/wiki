@@ -1,6 +1,6 @@
 ---
 title: Leadership in Academia
-permalink: /Leadership_in_Academia/
+permalink: "/Leadership_in_Academia/"
 ---
 
 References

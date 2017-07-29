@@ -1,6 +1,6 @@
 ---
 title: C in Python with Cython
-permalink: /C_in_Python_with_Cython/
+permalink: "/C_in_Python_with_Cython/"
 ---
 
 Examples

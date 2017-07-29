@@ -1,7 +1,7 @@
 ---
-layout: default
 title: High-Yield Savings
 permalink: p/high-yield-savings
+layout: default
 category: finance
 ---
 

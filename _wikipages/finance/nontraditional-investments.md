@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Nontraditional Investments
 permalink: p/nontraditional-investments
+layout: default
+category: finance
 featured: true
 ---
 

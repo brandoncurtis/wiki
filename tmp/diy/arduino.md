@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Arduino
 permalink: p/arduino
+layout: default
+category: diy
 ---
 
 __FORCETOC__

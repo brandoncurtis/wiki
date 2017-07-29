@@ -1,6 +1,6 @@
 ---
 title: Tax Efficient Asset Placement
-permalink: /Tax_Efficient_Asset_Placement/
+permalink: "/Tax_Efficient_Asset_Placement/"
 ---
 
 On 401(k)s and Tax Arbitrage

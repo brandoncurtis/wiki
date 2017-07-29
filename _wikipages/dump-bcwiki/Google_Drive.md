@@ -1,8 +1,8 @@
 ---
+title: Google Drive
+permalink: "/Google_Drive/"
 layout: default
 category: software
-title: Google Drive
-permalink: /Google_Drive/
 ---
 
 Integration with Other Services

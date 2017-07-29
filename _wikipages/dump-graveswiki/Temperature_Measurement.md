@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Temperature Measurement
 permalink: p/temperature-measurement
+layout: default
+category: diy
 ---
 
 Thermal Measurement Hardware

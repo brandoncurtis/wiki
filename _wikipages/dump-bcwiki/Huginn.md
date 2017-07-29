@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Huginn
 permalink: p/huginn
+layout: default
 category: software
 ---
 

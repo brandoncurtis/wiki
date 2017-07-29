@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Google Docs
 permalink: p/google-docs
+layout: default
+category: software
 ---
 
 Google Spreadsheets

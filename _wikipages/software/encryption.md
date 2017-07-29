@@ -1,12 +1,9 @@
 ---
-layout: default
-category: software
 title: Encryption
 permalink: p/encryption
+layout: default
+category: software
 ---
-
-
-
 
 ## Keybase
 

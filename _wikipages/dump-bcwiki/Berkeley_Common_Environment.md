@@ -1,6 +1,6 @@
 ---
 title: Berkeley Common Environment
-permalink: /Berkeley_Common_Environment/
+permalink: "/Berkeley_Common_Environment/"
 ---
 
 EE123 in the BCE

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Recipe - Stuffed Peppers
 permalink: p/stuffed-peppers
+layout: default
 category: food
 ---
 

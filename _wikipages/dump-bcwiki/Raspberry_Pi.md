@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Raspberry Pi
 permalink: p/raspberry-pi
+layout: default
 category: diy
 ---
 

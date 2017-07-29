@@ -1,6 +1,6 @@
 ---
 title: Personal Finance Readings
-permalink: /Personal_Finance_Readings/
+permalink: "/Personal_Finance_Readings/"
 ---
 
 Read some stuff! Get inspired and informed!

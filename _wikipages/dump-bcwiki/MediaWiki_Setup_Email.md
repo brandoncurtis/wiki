@@ -1,6 +1,6 @@
 ---
 title: MediaWiki Setup Email
-permalink: /MediaWiki_Setup_Email/
+permalink: "/MediaWiki_Setup_Email/"
 ---
 
 __MATHJAX_NODOLLAR__

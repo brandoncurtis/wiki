@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: /Main_Page/
+permalink: "/Main_Page/"
 ---
 
 Welcome to the 'And Higher Still' Wiki!

@@ -1,6 +1,6 @@
 ---
 title: Corporate Taxes
-permalink: /Corporate_Taxes/
+permalink: "/Corporate_Taxes/"
 ---
 
 Citizens for Tax Justice

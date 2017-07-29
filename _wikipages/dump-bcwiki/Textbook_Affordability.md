@@ -1,6 +1,6 @@
 ---
 title: Textbook Affordability
-permalink: /Textbook_Affordability/
+permalink: "/Textbook_Affordability/"
 ---
 
 [UC Berkeley's Textbook Affordability guidelines](http://teaching.berkeley.edu/textbook-affordability-accessibility)

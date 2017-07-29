@@ -1,6 +1,6 @@
 ---
 title: Audio
-permalink: /Audio/
+permalink: "/Audio/"
 ---
 
 Audio Quality

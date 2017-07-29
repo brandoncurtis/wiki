@@ -1,6 +1,6 @@
 ---
 title: Image Processing
-permalink: /Image_Processing/
+permalink: "/Image_Processing/"
 ---
 
 Motion Magnification

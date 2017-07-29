@@ -1,7 +1,7 @@
 ---
-layout: default
 title: File Sync Software
 permalink: p/file-sync
+layout: default
 category: software
 ---
 

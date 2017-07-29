@@ -1,6 +1,6 @@
 ---
 title: Websites with GitHub Pages
-permalink: /Websites_with_GitHub_Pages/
+permalink: "/Websites_with_GitHub_Pages/"
 ---
 
 GITHUB PAGES

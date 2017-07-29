@@ -1,6 +1,6 @@
 ---
 title: Electronic Cigarettes
-permalink: /Electronic_Cigarettes/
+permalink: "/Electronic_Cigarettes/"
 ---
 
 <http://www.gwern.net/Nicotine>

@@ -1,6 +1,6 @@
 ---
 title: DIY Microbial Fuel Cell
-permalink: /DIY_Microbial_Fuel_Cell/
+permalink: "/DIY_Microbial_Fuel_Cell/"
 ---
 
 Overview

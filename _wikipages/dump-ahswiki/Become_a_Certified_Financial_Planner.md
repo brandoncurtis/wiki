@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Become a Certified Financial Planner
 permalink: p/certified-financial-planner
+layout: default
+category: finance
 ---
 
 Who Might Want To?

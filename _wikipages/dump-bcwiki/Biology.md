@@ -1,6 +1,6 @@
 ---
 title: Biology
-permalink: /Biology/
+permalink: "/Biology/"
 ---
 
 Really Cool Proteins

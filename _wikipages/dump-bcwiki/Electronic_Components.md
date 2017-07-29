@@ -1,6 +1,6 @@
 ---
 title: Electronic Components
-permalink: /Electronic_Components/
+permalink: "/Electronic_Components/"
 ---
 
 Procuring Parts

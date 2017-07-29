@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Hydrogen Peroxide
 permalink: p/hydrogen-peroxide
+layout: default
+category: misc
 ---
 
 Production in Plasma

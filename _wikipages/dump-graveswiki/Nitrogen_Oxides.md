@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Nitrogen Oxides
 permalink: p/nitrogen-oxides
+layout: default
+category: misc
 ---
 
 Spectrophotometric Assays

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Astronomy
 permalink: p/astronomy
+layout: default
+category: diy
 ---
 
 **2016-04-27**

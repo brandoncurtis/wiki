@@ -1,6 +1,6 @@
 ---
 title: Temperature Measurement
-permalink: /Temperature_Measurement/
+permalink: "/Temperature_Measurement/"
 ---
 
 Thermal Measurement Hardware

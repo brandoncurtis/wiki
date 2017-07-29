@@ -1,6 +1,6 @@
 ---
 title: RSS and Feed Readers
-permalink: /RSS_and_Feed_Readers/
+permalink: "/RSS_and_Feed_Readers/"
 ---
 
 Google Reader Discontinued

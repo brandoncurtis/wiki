@@ -1,8 +1,8 @@
 ---
+title: LaTeX Testing
+permalink: "/LaTeX_Testing/"
 layout: default
 category: misc
-title: LaTeX Testing
-permalink: /LaTeX_Testing/
 ---
 
 \(\longrightarrow \text{IT WORKS}\)

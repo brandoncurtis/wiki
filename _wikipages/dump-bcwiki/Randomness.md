@@ -1,6 +1,6 @@
 ---
 title: Randomness
-permalink: /Randomness/
+permalink: "/Randomness/"
 ---
 
 Software Random Number Generation

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Hardening with `fail2ban`
 permalink: p/fail2ban
+layout: default
+category: software
 ---
 
 + [How to Prevent SSH Brute Force Attacks with Fail2Ban on Debian 7](https://www.unixmen.com/how-to-prevent-ssh-brute-force-attacks-with-fail2ban-on-debian-7/)

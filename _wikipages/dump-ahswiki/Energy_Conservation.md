@@ -1,8 +1,8 @@
 ---
-layout: default
-category: conservation
 title: Energy Conservation
 permalink: p/energy-conservation
+layout: default
+category: conservation
 ---
 
 For the official domestic numbers, check out the EIA's [Annual Energy Outlook](http://www.eia.gov/forecasts/aeo/).

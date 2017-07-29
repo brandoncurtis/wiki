@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Robo-Investing
 permalink: p/robo-investing
+layout: default
 category: finance
 ---
 

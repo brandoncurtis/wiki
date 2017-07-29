@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Electronics Repair
 permalink: p/repair-electronics
+layout: default
+category: diy
 ---
 
 'The Oven Trick'

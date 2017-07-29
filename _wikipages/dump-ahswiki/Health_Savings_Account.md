@@ -1,6 +1,6 @@
 ---
 title: Health Savings Account
-permalink: /Health_Savings_Account/
+permalink: "/Health_Savings_Account/"
 ---
 
 For the “Medical Emergencies” portion of emergency fund, the HSA seemed like a good idea given that its pre-tax and when maxed out you can transfer over to an investment fund.

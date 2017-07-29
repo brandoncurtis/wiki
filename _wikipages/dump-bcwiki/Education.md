@@ -1,6 +1,6 @@
 ---
 title: Education
-permalink: /Education/
+permalink: "/Education/"
 ---
 
 -   <https://www.maa.org/external_archive/devlin/LockhartsLament.pdf>

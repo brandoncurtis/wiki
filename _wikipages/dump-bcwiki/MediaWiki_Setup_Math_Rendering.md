@@ -1,6 +1,6 @@
 ---
 title: MediaWiki Setup Math Rendering
-permalink: /MediaWiki_Setup_Math_Rendering/
+permalink: "/MediaWiki_Setup_Math_Rendering/"
 ---
 
 Installing Prerequisites

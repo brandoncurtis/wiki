@@ -1,6 +1,6 @@
 ---
 title: Plasma Speaker
-permalink: /Plasma_Speaker/
+permalink: "/Plasma_Speaker/"
 ---
 
 Basic Design

@@ -1,6 +1,6 @@
 ---
 title: YouTube
-permalink: /YouTube/
+permalink: "/YouTube/"
 ---
 
 Recording Google Hangouts

@@ -1,6 +1,6 @@
 ---
 title: Lawn Care
-permalink: /Lawn_Care/
+permalink: "/Lawn_Care/"
 ---
 
 Lawns are a huge and pointless waste of resources.

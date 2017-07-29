@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: DIY NMR Spectroscopy
 permalink: p/nmr-spectroscopy
+layout: default
+category: diy
 ---
 
 NMR Basics

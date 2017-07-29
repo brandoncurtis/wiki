@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Precious Metals and Diamonds
 permalink: p/gold-investing
+layout: default
 category: finance
 ---
 

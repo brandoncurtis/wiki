@@ -1,6 +1,6 @@
 ---
 title: Prototyping with PVC Pipe
-permalink: /Prototyping_with_PVC_Pipe/
+permalink: "/Prototyping_with_PVC_Pipe/"
 ---
 
 Pipe Materials for Prototyping

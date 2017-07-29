@@ -1,6 +1,6 @@
 ---
 title: Open Courseware
-permalink: /Open_Courseware/
+permalink: "/Open_Courseware/"
 ---
 
 [BC's spreadsheet of open courseware resources](https://docs.google.com/spreadsheets/d/1ZjoJ2HtrBgGzdeos3MiMlI13RxopIBeF4sPVBUM-qvk/edit#gid=1) (outdated)

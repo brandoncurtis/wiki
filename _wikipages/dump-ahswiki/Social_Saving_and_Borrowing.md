@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Social Saving and Borrowing
 permalink: p/social-saving-borrowing
+layout: default
 category: finance
 ---
 

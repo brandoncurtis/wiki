@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Nitric Oxide
 permalink: p/nitric-oxide
+layout: default
+category: misc
 ---
 
 Production in Plasma

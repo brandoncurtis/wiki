@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Transistors
 permalink: p/transistors
+layout: default
 category: diy
 ---
 

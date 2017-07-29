@@ -1,10 +1,9 @@
 ---
-layout: default
-category: software
 title: LaTeX Document Typesetting
 permalink: p/latex
+layout: default
+category: software
 ---
-
 
 Installing LaTeX in Ubuntu 14.04 Trusty Tahr
 --------------------------------------------

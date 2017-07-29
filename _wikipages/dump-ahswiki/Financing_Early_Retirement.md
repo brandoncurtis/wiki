@@ -1,8 +1,8 @@
 ---
+title: Financing Early Retirement
+permalink: "/Financing_Early_Retirement/"
 layout: default
 category: finance
-title: Financing Early Retirement
-permalink: /Financing_Early_Retirement/
 ---
 
 If you're planning on retiring early, having 'enough' money is only half of the battle: **the money must be accessible for withdrawal in the amounts and at the times you need it**.

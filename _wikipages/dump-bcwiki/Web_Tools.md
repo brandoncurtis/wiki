@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Web Tools
 permalink: p/web-tools
+layout: default
 category: software
 ---
 

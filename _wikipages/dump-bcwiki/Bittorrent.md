@@ -1,10 +1,9 @@
 ---
-layout: default
 title: Bittorrent
 permalink: p/bittorrent
+layout: default
 category: software
 ---
-
 
 Creating a Torrent
 ------------------

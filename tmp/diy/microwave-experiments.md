@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Microwave Experiments
 permalink: p/microwave-experiments
+layout: default
+category: diy
 ---
 
 Microwave Fundamentals

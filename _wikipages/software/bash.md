@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Bash Shell Scripting
 permalink: p/bash
+layout: default
+category: software
 ---
 
 ### Process Management

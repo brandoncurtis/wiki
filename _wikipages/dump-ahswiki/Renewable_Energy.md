@@ -1,6 +1,6 @@
 ---
 title: Renewable Energy
-permalink: /Renewable_Energy/
+permalink: "/Renewable_Energy/"
 ---
 
 Renewable Energy Certificates (RECs)

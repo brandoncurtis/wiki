@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Atom Text Editor
 permalink: p/atom
+layout: default
+category: software
 ---
 
 ### My Packages

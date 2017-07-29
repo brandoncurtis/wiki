@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Flyback Drivers
 permalink: p/flyback-drivers
+layout: default
+category: diy
 ---
 
 First, some electronics background is in order. An excellent discussion of Class-D amplifiers, the half-bridge and full-bridge topologies, gate driving, dead time, and feedback can be found in Sergio Sánchez Moreno and Rod Elliott's article, ["Class D Audio Amplifiers - Theory and Design"](http://sound.westhost.com/articles/pwm.htm).

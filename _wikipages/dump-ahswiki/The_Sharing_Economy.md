@@ -1,6 +1,6 @@
 ---
 title: The Sharing Economy
-permalink: /The_Sharing_Economy/
+permalink: "/The_Sharing_Economy/"
 ---
 
 Sharing Books

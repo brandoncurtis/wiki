@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Learn To Code
 permalink: p/learn-to-code
+layout: default
+category: diy
 ---
 
 Learning to code is good for your brain (and very likely good for your future paycheck).

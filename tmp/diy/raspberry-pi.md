@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Raspberry Pi
 permalink: p/raspberry-pi
+layout: default
+category: diy
 ---
 
 Raspberry Pi Setup

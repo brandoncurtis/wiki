@@ -1,8 +1,8 @@
 ---
-layout: default
-category: travel
 title: State College
 permalink: p/state-college
+layout: default
+category: travel
 ---
 
 Hiking

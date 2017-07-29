@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Fermentation Food Safety
 permalink: p/fermentation-safety
+layout: default
 category: food
 ---
 

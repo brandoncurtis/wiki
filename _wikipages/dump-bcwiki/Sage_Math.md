@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Sage Math
 permalink: p/sage-math
+layout: default
 category: software
 ---
 

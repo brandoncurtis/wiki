@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: PlasMedWiki
 permalink: p/plasmedwiki
+layout: default
+category: misc
 ---
 
 ### Welcome to PlasMedWiki

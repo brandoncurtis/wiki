@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Employing Your Children
 permalink: p/employing-children
+layout: default
+category: finance
 ---
 
 Employing your children in a legitimate business venture can be financially advantageous!

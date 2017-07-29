@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Optical Emission Spectroscopy
 permalink: p/optical-emission-spectroscopy
+layout: default
+category: misc
 ---
 
 Spectral Simulation Tools

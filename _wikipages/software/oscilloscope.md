@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Oscilloscope Interfacing
 permalink: p/oscilloscope
+layout: default
+category: software
 ---
 
 1) increase the speed of USB acquisition from the oscilloscope?

@@ -1,10 +1,9 @@
 ---
-layout: default
-category: software
 title: Apache
 permalink: p/apache
+layout: default
+category: software
 ---
-
 
 Apache 2.2 in Ubuntu 14.04
 --------------------------

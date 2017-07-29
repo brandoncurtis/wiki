@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Ozone
 permalink: p/ozone
+layout: default
+category: misc
 ---
 
 Production in Plasma

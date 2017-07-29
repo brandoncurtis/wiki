@@ -1,6 +1,6 @@
 ---
 title: Television
-permalink: /Television/
+permalink: "/Television/"
 ---
 
 [If you haven’t cut the cord on cable TV, you should](http://www.marketwatch.com/story/if-you-havent-cut-the-cord-on-cable-tv-you-should-2014-06-24)

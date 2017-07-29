@@ -1,6 +1,6 @@
 ---
 title: MediaWiki Setup Preventing Vandalism
-permalink: /MediaWiki_Setup_Preventing_Vandalism/
+permalink: "/MediaWiki_Setup_Preventing_Vandalism/"
 ---
 
 To cut down on spam and vandalism, this site uses a number of suggestions from [Cookipedia - How to stop Spam on a MediaWiki](http://www.cookipedia.co.uk/recipes_wiki/How_to_stop_Spam_on_a_MediaWiki). See also the [Mediawiki:Combating Spam](http://www.mediawiki.org/wiki/Manual:Combating_spam) and [MediaWiki:Combating Vandalism](http://www.mediawiki.org/wiki/Manual:Combating_vandalism).

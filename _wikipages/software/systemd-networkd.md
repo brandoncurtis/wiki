@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: systemd-networkd
 permalink: p/systemd-networkd
+layout: default
+category: software
 featured: true
 ---
 

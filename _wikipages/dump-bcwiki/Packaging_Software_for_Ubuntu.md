@@ -1,6 +1,6 @@
 ---
 title: Packaging Software for Ubuntu
-permalink: /Packaging_Software_for_Ubuntu/
+permalink: "/Packaging_Software_for_Ubuntu/"
 ---
 
     How to package newer version of Arduino for Ubuntu?

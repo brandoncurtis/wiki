@@ -1,6 +1,6 @@
 ---
 title: Beneficial Corporations
-permalink: /Beneficial_Corporations/
+permalink: "/Beneficial_Corporations/"
 ---
 
 Benefit Corporations

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Plasma Math
 permalink: p/plasma-math
+layout: default
+category: misc
 ---
 
 Poisson's Equation

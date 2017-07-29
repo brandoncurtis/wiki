@@ -1,6 +1,6 @@
 ---
 title: Computer Interfacing
-permalink: /Computer_Interfacing/
+permalink: "/Computer_Interfacing/"
 ---
 
 All recommended hardware is fully Linux compatible!

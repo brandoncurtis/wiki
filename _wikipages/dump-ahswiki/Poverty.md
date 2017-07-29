@@ -1,6 +1,6 @@
 ---
 title: Poverty
-permalink: /Poverty/
+permalink: "/Poverty/"
 ---
 
 It's hard to get ahead when you have very little in the way of liquid assets and one accident, injury, or illness can drain your reserves and even lose you your job. Low-wage jobs tend to be physically demanding, increasing the risk of something going wrong. Unsecured loans like credit card balances and payday loans, a common fallback of the desperate, have horrifically high interest rates and (quite literally) compound the problem the more they're relied upon.

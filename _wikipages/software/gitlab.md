@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: GitLab Version Control Manager
 permalink: p/gitlab
+layout: default
+category: software
 ---
 
 GitLab Version Control Manager

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: software
 title: Jekyll for Static Sites
 permalink: p/jekyll
+layout: default
+category: software
 ---
 
 ## Building a site with Jekyll

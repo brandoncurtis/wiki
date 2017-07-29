@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Ubuntu
-permalink: /Troubleshooting_Ubuntu/
+permalink: "/Troubleshooting_Ubuntu/"
 ---
 
 Process Management

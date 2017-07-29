@@ -1,6 +1,6 @@
 ---
 title: Finance Spreadsheets
-permalink: /Finance_Spreadsheets/
+permalink: "/Finance_Spreadsheets/"
 ---
 
 Simulators

@@ -1,8 +1,8 @@
 ---
-layout: default
-category: diy
 title: Biological Buffer Solutions
 permalink: p/biological-buffer-solutions
+layout: default
+category: diy
 ---
 
 Buffer Tables

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Investing Outside of Vanguard
 permalink: p/non-vanguard-investing
+layout: default
 category: finance
 ---
 

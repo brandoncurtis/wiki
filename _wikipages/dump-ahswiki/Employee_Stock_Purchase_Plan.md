@@ -1,8 +1,8 @@
 ---
-layout: default
-category: finance
 title: Employee Stock Purchase Plan
 permalink: p/employee-stock-purchase-plan
+layout: default
+category: finance
 ---
 
 References

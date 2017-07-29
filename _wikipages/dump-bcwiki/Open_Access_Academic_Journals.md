@@ -1,6 +1,6 @@
 ---
 title: Open Access Academic Journals
-permalink: /Open_Access_Academic_Journals/
+permalink: "/Open_Access_Academic_Journals/"
 ---
 
 OA Routes and Strategies

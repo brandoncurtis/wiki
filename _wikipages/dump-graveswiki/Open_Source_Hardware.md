@@ -1,8 +1,8 @@
 ---
-layout: default
-category: misc
 title: Open Source Hardware
 permalink: p/open-source-hardware
+layout: default
+category: misc
 ---
 
 Arduino

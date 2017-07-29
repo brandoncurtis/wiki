@@ -1,6 +1,6 @@
 ---
 title: Open Scientific Computing
-permalink: /Open_Scientific_Computing/
+permalink: "/Open_Scientific_Computing/"
 ---
 
 Jupyter

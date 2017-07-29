@@ -1,6 +1,6 @@
 ---
 title: EEVBlog
-permalink: /EEVBlog/
+permalink: "/EEVBlog/"
 ---
 
 Dave's EEVBlog µCurrent

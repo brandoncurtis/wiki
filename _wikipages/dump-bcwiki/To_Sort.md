@@ -1,6 +1,6 @@
 ---
 title: To Sort
-permalink: /To_Sort/
+permalink: "/To_Sort/"
 ---
 
 <http://askubuntu.com/questions/13758/how-can-i-edit-create-new-launcher-items-in-unity-by-hand>

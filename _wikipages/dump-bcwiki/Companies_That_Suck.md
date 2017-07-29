@@ -1,6 +1,6 @@
 ---
 title: Companies That Suck
-permalink: /Companies_That_Suck/
+permalink: "/Companies_That_Suck/"
 ---
 
 Comcast.
