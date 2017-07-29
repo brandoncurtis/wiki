@@ -17,8 +17,7 @@ collections:
 name: Brandon Curtis
 markdown: kramdown
 encoding: utf-8
-baseurl: "/wiki"
-url: https://brandoncurtis.github.io/wiki
+url: http://bcwiki.brandoncurtis.com
 logo: "/images/bc-suit.jpg"
 description: BC Wiki. tech, finance, and nonsense via GitHub Pages.
 gems:
