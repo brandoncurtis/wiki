@@ -5,8 +5,8 @@ layout: default
 {{ content }}
 
 {% assign catpages = (site.wikipages | where_exp:"wikipages","wikipages['category'] == page.category" | sort: 'title') %}
-{% assign catpages_featured = (catpages | where_exp:"wikipages","successes['featured'] == true") %}
-{% assign catpages_notfeatured = (catpages | where_exp:"wikipages","successes['featured'] != true") %}
+{% assign catpages_featured = (catpages | where_exp:"wikipages","wikipages['featured'] == true") %}
+{% assign catpages_notfeatured = (catpages | where_exp:"wikipages","wikipages['featured'] != true") %}
 
 <h3>Featured Articles in {{ page.category }}</h3>
 
