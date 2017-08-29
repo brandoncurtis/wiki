@@ -18,6 +18,7 @@ name: Brandon Curtis
 markdown: kramdown
 encoding: utf-8
 url: http://bcwiki.brandoncurtis.com
+baseurl: http://bcwiki.brandoncurtis.com
 logo: "/images/bc-suit.jpg"
 description: BC Wiki. tech, finance, and nonsense via GitHub Pages.
 gems:
