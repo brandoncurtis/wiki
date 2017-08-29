@@ -32,12 +32,12 @@ Liquid tags are the key to fully utilizing Jekyll; they're discussed in-depth in
 ## Academic Pages Using Jekyll
 
 + Nice!
-  + (http://drummondlab.org/)
-    + (https://github.com/drummondlab/drummondlab.github.io)
-  + http://bedford.io/
-    + https://github.com/blab/blotter
-  + http://girke.bioinformatics.ucr.edu/
-    + https://github.com/tgirke/tgirke.github.io
+  + <http://drummondlab.org/>
+    + <https://github.com/drummondlab/drummondlab.github.io>
+  + <http://bedford.io/>
+    + <https://github.com/blab/blotter>
+  + <http://girke.bioinformatics.ucr.edu/>
+    + <https://github.com/tgirke/tgirke.github.io>
   + http://notebook.madsenlab.org/
     + https://github.com/mmadsen/lnraw
   + http://www.carlboettiger.info/
