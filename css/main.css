@@ -1,6 +1,6 @@
 body {
     font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    margin: 60px auto;
+    margin: 20px auto 60px auto;
     width: 1000px;
 }
 
@@ -30,7 +30,7 @@ h1 {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: white;
   background-color: black;
-  margin: 0px auto;
+  margin: 15px auto;
   display: inline-block;
   padding: 12px;
   border-radius: 10px;
