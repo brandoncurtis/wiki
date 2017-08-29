@@ -8,7 +8,7 @@ layout: default
 {% assign catpages_featured = (catpages | where_exp:"wikipages","wikipages['featured'] == true") %}
 {% assign catpages_notfeatured = (catpages | where_exp:"wikipages","wikipages['featured'] != true") %}
 
-<h3>Featured Articles in {{ page.category }}</h3>
+<h3>Featured Articles in {{ page.title }}</h3>
 
 <ul class="wikipages">
 {% for wikipage in catpages_featured %}
@@ -16,7 +16,7 @@ layout: default
 {% endfor %}
 </ul>
 
-<h3>Other Articles</h3>
+<h3>All Articles in {{ page.title }}</h3>
 
 <ul class="wikipages">
 {% for wikipage in catpages %}
