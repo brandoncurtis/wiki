@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- it's 2016, time to use Unicode! -->
+    <!-- it's 2017, time to use Unicode! -->
     <meta charset="utf-8">
 
     <!-- a liquid tag for inserting the scripts for enabling MathJax -->
@@ -30,8 +30,8 @@
       {% include nav.html %}
     </nav>
 
-    <h1>BC Wiki: {{ page.title }}</h1>
-
+    <h1><a href="{{ site.baseurl }}">BC Wiki:</a> {{ page.title }}</h1>
+    <h3>Category: <a href="{{ site.baseurl }}/h/{{ page.category }}">{{ page.category }}</a></h3>
     <div class="container">
       <!-- liquid: insert text from markdown doc -->
       {{ content }}
