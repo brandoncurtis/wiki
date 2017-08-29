@@ -1,7 +1,7 @@
 ---
 title: Book - The Personal MBA
 permalink: p/book-personal-mba
-layout: default
+layout: wikipage
 category: finance
 ---
 

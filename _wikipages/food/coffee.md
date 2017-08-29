@@ -1,7 +1,7 @@
 ---
 title: Coffee
 permalink: p/coffee
-layout: default
+layout: wikipage
 category: food
 ---
 

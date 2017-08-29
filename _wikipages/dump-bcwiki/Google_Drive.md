@@ -1,7 +1,7 @@
 ---
 title: Google Drive
 permalink: "/Google_Drive/"
-layout: default
+layout: wikipage
 category: software
 ---
 

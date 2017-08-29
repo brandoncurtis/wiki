@@ -1,7 +1,7 @@
 ---
 title: Cell Phone Plans
 permalink: p/cell-phone-plans
-layout: default
+layout: wikipage
 category: finance
 ---
 

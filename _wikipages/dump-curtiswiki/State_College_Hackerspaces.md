@@ -1,7 +1,7 @@
 ---
 title: State College Hackerspaces
 permalink: p/state-college-hackerspaces
-layout: default
+layout: wikipage
 category: travel
 ---
 

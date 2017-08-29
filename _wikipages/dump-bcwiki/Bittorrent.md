@@ -1,7 +1,7 @@
 ---
 title: Bittorrent
 permalink: p/bittorrent
-layout: default
+layout: wikipage
 category: software
 ---
 

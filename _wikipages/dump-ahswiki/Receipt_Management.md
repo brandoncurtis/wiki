@@ -1,7 +1,7 @@
 ---
 title: Receipt Management
 permalink: p/receipt-management
-layout: default
+layout: wikipage
 category: finance
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Web Tools
 permalink: p/web-tools
-layout: default
+layout: wikipage
 category: software
 ---
 

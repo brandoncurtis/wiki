@@ -1,7 +1,7 @@
 ---
 title: Optical Windows
 permalink: p/optical-windows
-layout: default
+layout: wikipage
 category: diy
 ---
 

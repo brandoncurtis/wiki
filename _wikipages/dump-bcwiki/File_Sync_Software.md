@@ -1,7 +1,7 @@
 ---
 title: File Sync Software
 permalink: p/file-sync
-layout: default
+layout: wikipage
 category: software
 ---
 

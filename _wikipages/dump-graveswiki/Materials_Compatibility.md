@@ -1,7 +1,7 @@
 ---
 title: Materials Compatibility
 permalink: p/materials-compatibility
-layout: default
+layout: wikipage
 category: misc
 ---
 

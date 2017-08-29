@@ -1,7 +1,7 @@
 ---
 title: Real Estate
 permalink: p/real-estate
-layout: default
+layout: wikipage
 category: finance
 featured: true
 ---

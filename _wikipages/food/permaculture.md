@@ -2,7 +2,7 @@
 title: Permaculture
 permalink: p/permaculture
 category: food
-layout: default
+layout: wikipage
 ---
 
 References

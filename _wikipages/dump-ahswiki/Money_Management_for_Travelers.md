@@ -1,7 +1,7 @@
 ---
 title: Money Management for Travels
 permalink: p/traveling-money
-layout: default
+layout: wikipage
 category: finance
 ---
 

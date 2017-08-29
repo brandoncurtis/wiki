@@ -1,7 +1,7 @@
 ---
 title: Oximeter DIY
 permalink: p/oximeter
-layout: default
+layout: wikipage
 category: software
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Urbit
 permalink: p/urbit
-layout: default
+layout: wikipage
 category: software
 ---
 

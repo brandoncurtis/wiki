@@ -1,7 +1,7 @@
 ---
 title: Cheesemaking
 permalink: p/cheese
-layout: default
+layout: wikipage
 category: food
 ---
 

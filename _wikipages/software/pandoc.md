@@ -1,7 +1,7 @@
 ---
 title: Pandoc Text Converter
 permalink: p/pandoc
-layout: default
+layout: wikipage
 category: software
 math: true
 ---

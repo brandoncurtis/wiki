@@ -1,7 +1,7 @@
 ---
 title: Atom Text Editor
 permalink: p/atom
-layout: default
+layout: wikipage
 category: software
 ---
 

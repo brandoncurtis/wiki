@@ -1,7 +1,7 @@
 ---
 title: Contribution Limits
 permalink: p/contribution-limits
-layout: default
+layout: wikipage
 category: finance
 ---
 

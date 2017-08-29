@@ -1,7 +1,7 @@
 ---
 title: Tax Loopholes
 permalink: p/tax-loopholes
-layout: default
+layout: wikipage
 category: finance
 ---
 

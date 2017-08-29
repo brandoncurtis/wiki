@@ -1,7 +1,7 @@
 ---
 title: LaTeX Testing
 permalink: "/LaTeX_Testing/"
-layout: default
+layout: wikipage
 category: misc
 ---
 

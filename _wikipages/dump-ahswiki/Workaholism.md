@@ -1,7 +1,7 @@
 ---
 title: Workaholism
 permalink: p/workaholism
-layout: default
+layout: wikipage
 category: finance
 ---
 

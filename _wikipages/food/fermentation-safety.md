@@ -1,7 +1,7 @@
 ---
 title: Fermentation Food Safety
 permalink: p/fermentation-safety
-layout: default
+layout: wikipage
 category: food
 ---
 

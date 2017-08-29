@@ -1,7 +1,7 @@
 ---
 title: Encryption
 permalink: p/encryption
-layout: default
+layout: wikipage
 category: software
 ---
 

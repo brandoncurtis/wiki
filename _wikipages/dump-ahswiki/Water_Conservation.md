@@ -1,7 +1,7 @@
 ---
 title: Water Conservation
 permalink: p/water-conservation
-layout: default
+layout: wikipage
 category: conservation
 ---
 

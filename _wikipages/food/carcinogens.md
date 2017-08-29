@@ -1,7 +1,7 @@
 ---
 title: Carcinogens in Food
 permalink: p/food-carcinogens
-layout: default
+layout: wikipage
 category: food
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Virtual Machines in VirtualBox
 permalink: p/virtualbox
-layout: default
+layout: wikipage
 category: software
 featured: true
 ---

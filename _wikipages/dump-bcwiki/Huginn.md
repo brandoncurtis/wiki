@@ -1,7 +1,7 @@
 ---
 title: Huginn
 permalink: p/huginn
-layout: default
+layout: wikipage
 category: software
 ---
 

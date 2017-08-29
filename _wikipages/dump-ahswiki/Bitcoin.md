@@ -1,7 +1,7 @@
 ---
 title: Bitcoin
 permalink: p/bitcoin
-layout: default
+layout: wikipage
 category: finance
 ---
 

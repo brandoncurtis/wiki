@@ -1,7 +1,7 @@
 ---
 title: Ozone
 permalink: p/ozone
-layout: default
+layout: wikipage
 category: misc
 ---
 

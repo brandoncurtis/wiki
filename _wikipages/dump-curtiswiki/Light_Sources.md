@@ -1,7 +1,7 @@
 ---
 title: Light Sources
 permalink: p/light-sources
-layout: default
+layout: wikipage
 category: diy
 ---
 

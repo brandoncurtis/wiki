@@ -1,7 +1,7 @@
 ---
 title: How Do I...?
 permalink: p/requests
-layout: default
+layout: wikipage
 category: software
 ---
 

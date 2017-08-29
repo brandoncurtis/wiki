@@ -1,7 +1,7 @@
 ---
 title: Taxes
 permalink: p/taxes
-layout: default
+layout: wikipage
 category: finance
 ---
 

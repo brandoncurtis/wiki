@@ -1,7 +1,7 @@
 ---
 title: Meal Replacement Experiments
 permalink: p/meal-replacement
-layout: default
+layout: wikipage
 category: food
 ---
 

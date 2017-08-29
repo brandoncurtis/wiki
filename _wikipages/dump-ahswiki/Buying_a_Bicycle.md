@@ -1,7 +1,7 @@
 ---
 title: Buying a Bicycle
 permalink: p/buying-a-bicycle
-layout: default
+layout: wikipage
 category: finance
 ---
 

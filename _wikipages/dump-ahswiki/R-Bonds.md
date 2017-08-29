@@ -1,7 +1,7 @@
 ---
 title: R-Bonds
 permalink: p/r-bonds
-layout: default
+layout: wikipage
 category: finance
 ---
 

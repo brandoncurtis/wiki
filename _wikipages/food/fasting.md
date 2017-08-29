@@ -1,7 +1,7 @@
 ---
 title: Fasting
 permalink: p/fasting
-layout: default
+layout: wikipage
 category: food
 ---
 

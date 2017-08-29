@@ -1,7 +1,7 @@
 ---
 title: Pidgin IM Client
 permalink: p/pidgin
-layout: default
+layout: wikipage
 category: software
 ---
 

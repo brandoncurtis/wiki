@@ -1,7 +1,7 @@
 ---
 title: Nontraditional Investments
 permalink: p/nontraditional-investments
-layout: default
+layout: wikipage
 category: finance
 featured: true
 ---

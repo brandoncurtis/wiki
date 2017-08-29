@@ -1,7 +1,7 @@
 ---
 title: Electronics Repair
 permalink: p/repair-electronics
-layout: default
+layout: wikipage
 category: diy
 ---
 

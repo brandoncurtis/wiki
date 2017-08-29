@@ -1,7 +1,7 @@
 ---
 title: GitLab Version Control Manager
 permalink: p/gitlab
-layout: default
+layout: wikipage
 category: software
 ---
 

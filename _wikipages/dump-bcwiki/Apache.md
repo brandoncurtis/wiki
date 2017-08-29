@@ -1,7 +1,7 @@
 ---
 title: Apache
 permalink: p/apache
-layout: default
+layout: wikipage
 category: software
 ---
 

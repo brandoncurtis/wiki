@@ -1,7 +1,7 @@
 ---
 title: Transportation
 permalink: p/transportation
-layout: default
+layout: wikipage
 category: finance
 ---
 

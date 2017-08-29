@@ -1,7 +1,7 @@
 ---
 title: Optical Emission Spectroscopy
 permalink: p/optical-emission-spectroscopy
-layout: default
+layout: wikipage
 category: misc
 ---
 

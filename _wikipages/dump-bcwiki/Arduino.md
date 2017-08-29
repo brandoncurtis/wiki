@@ -1,7 +1,7 @@
 ---
 title: Arduino
 permalink: p/arduino
-layout: default
+layout: wikipage
 category: diy
 ---
 

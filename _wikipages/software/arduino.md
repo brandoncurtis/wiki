@@ -1,7 +1,7 @@
 ---
 title: Arduino Hacking
 permalink: p/arduino
-layout: default
+layout: wikipage
 category: software
 featured: true
 description: Tools and techniques for getting the most out of the Arduino hardware

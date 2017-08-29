@@ -1,7 +1,7 @@
 ---
 title: Julia for Scientific Computing
 permalink: p/julia-scientific-computing
-layout: default
+layout: wikipage
 category: software
 ---
 

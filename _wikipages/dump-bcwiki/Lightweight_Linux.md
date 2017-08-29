@@ -1,7 +1,7 @@
 ---
 title: Lightweight Linux
 permalink: p/lightweight-linux
-layout: default
+layout: wikipage
 category: software
 ---
 

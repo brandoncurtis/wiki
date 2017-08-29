@@ -1,7 +1,7 @@
 ---
 title: Composting
 permalink: p/composting
-layout: default
+layout: wikipage
 category: food
 ---
 

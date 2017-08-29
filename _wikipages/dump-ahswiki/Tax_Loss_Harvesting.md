@@ -1,7 +1,7 @@
 ---
 title: Tax Loss Harvesting
 permalink: p/tax-loss-harvesting
-layout: default
+layout: wikipage
 category: finance
 ---
 

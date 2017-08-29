@@ -1,7 +1,7 @@
 ---
 title: State College
 permalink: p/state-college
-layout: default
+layout: wikipage
 category: travel
 ---
 

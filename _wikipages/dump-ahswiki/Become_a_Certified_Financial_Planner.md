@@ -1,7 +1,7 @@
 ---
 title: Become a Certified Financial Planner
 permalink: p/certified-financial-planner
-layout: default
+layout: wikipage
 category: finance
 ---
 

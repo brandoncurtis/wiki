@@ -1,7 +1,7 @@
 ---
 title: Hydrogen Peroxide
 permalink: p/hydrogen-peroxide
-layout: default
+layout: wikipage
 category: misc
 ---
 

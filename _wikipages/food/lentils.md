@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wikipage
 category: food
 title: Lentil Recipes
 permalink: p/lentils

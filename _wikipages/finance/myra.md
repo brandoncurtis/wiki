@@ -1,7 +1,7 @@
 ---
 title: MyRA Savings Account
 permalink: p/myra
-layout: default
+layout: wikipage
 category: finance
 ---
 

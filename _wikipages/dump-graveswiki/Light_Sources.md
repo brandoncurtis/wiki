@@ -1,7 +1,7 @@
 ---
 title: Light Sources
 permalink: p/graveslab-light-sources
-layout: default
+layout: wikipage
 category: misc
 ---
 

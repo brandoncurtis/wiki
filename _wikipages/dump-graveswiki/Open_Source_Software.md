@@ -1,7 +1,7 @@
 ---
 title: Open Source Software
 permalink: p/open-source-software
-layout: default
+layout: wikipage
 category: misc
 ---
 

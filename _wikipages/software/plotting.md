@@ -1,7 +1,7 @@
 ---
 title: Plotting in Python
 permalink: p/plotting
-layout: default
+layout: wikipage
 category: software
 ---
 

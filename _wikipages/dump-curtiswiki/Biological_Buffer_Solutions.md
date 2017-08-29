@@ -1,7 +1,7 @@
 ---
 title: Biological Buffer Solutions
 permalink: p/biological-buffer-solutions
-layout: default
+layout: wikipage
 category: diy
 ---
 

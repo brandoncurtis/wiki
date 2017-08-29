@@ -1,7 +1,7 @@
 ---
 title: Robo-Investing
 permalink: p/robo-investing
-layout: default
+layout: wikipage
 category: finance
 ---
 

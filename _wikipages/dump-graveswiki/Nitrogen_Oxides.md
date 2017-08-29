@@ -1,7 +1,7 @@
 ---
 title: Nitrogen Oxides
 permalink: p/nitrogen-oxides
-layout: default
+layout: wikipage
 category: misc
 ---
 

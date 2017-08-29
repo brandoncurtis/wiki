@@ -1,7 +1,7 @@
 ---
 title: Acid Mine Drainage
 permalink: p/acid-mine-drainage
-layout: default
+layout: wikipage
 category: conservation
 ---
 

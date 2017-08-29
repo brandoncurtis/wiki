@@ -1,7 +1,7 @@
 ---
 title: Bash Shell Scripting
 permalink: p/bash
-layout: default
+layout: wikipage
 category: software
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: systemd-networkd
 permalink: p/systemd-networkd
-layout: default
+layout: wikipage
 category: software
 featured: true
 ---

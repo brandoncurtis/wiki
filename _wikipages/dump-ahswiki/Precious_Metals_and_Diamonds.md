@@ -1,7 +1,7 @@
 ---
 title: Precious Metals and Diamonds
 permalink: p/gold-investing
-layout: default
+layout: wikipage
 category: finance
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Annuity
 permalink: "/DIY_Annuity/"
-layout: default
+layout: wikipage
 category: finance
 ---
 

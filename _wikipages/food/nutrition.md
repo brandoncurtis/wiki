@@ -2,7 +2,7 @@
 title: Nutrition Information
 permalink: p/nutrition
 category: food
-layout: default
+layout: wikipage
 ---
 
 Food APIs

@@ -1,7 +1,7 @@
 ---
 title: High Voltage Components
 permalink: p/high-voltage-components
-layout: default
+layout: wikipage
 category: diy
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Hardening with `fail2ban`
 permalink: p/fail2ban
-layout: default
+layout: wikipage
 category: software
 ---
 

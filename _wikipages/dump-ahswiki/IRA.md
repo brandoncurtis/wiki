@@ -1,7 +1,7 @@
 ---
 title: Individual Retirement Account
 permalink: p/ira
-layout: default
+layout: wikipage
 category: finance
 ---
 

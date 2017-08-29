@@ -1,7 +1,7 @@
 ---
 title: Flyback Transformers
 permalink: p/flyback-transformers
-layout: default
+layout: wikipage
 category: diy
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: PlasMedWiki
 permalink: p/plasmedwiki
-layout: default
+layout: wikipage
 category: misc
 ---
 

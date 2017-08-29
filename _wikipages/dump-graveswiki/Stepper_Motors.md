@@ -1,7 +1,7 @@
 ---
 title: Stepper Motors
 permalink: p/stepper-motors
-layout: default
+layout: wikipage
 category: diy
 ---
 

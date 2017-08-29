@@ -1,7 +1,7 @@
 ---
 title: Plasma Medicine Literature Feed
 permalink: p/plasma-medicine-literature-feed
-layout: default
+layout: wikipage
 category: misc
 ---
 

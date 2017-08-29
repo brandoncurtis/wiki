@@ -1,7 +1,7 @@
 ---
 title: Sensors
 permalink: p/sensors
-layout: default
+layout: wikipage
 category: diy
 ---
 

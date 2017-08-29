@@ -2,7 +2,7 @@
 title: Kefir Fermentation
 permalink: p/kefir
 category: food
-layout: default
+layout: wikipage
 ---
 
 Kefir is delicious. Let's optimize it.

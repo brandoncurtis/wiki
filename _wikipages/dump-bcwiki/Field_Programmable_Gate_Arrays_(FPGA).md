@@ -1,7 +1,7 @@
 ---
 title: Field Programmable Gate Arrays
 permalink: field_programmable_gate_arrays
-layout: default
+layout: wikipage
 category: diy
 ---
 

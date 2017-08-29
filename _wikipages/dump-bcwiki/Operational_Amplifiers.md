@@ -1,7 +1,7 @@
 ---
 title: Operational Amplifiers
 permalink: p/op-amps
-layout: default
+layout: wikipage
 category: diy
 ---
 

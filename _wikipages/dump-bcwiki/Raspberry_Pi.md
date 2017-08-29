@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi
 permalink: p/raspberry-pi
-layout: default
+layout: wikipage
 category: diy
 ---
 

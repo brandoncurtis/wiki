@@ -1,7 +1,7 @@
 ---
 title: Homemade Cookies
 permalink: p/homemade-cookies
-layout: default
+layout: wikipage
 category: food
 ---
 

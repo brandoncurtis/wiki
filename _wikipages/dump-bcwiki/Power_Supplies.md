@@ -1,7 +1,7 @@
 ---
 title: Power Supplies
 permalink: p/power-supplies
-layout: default
+layout: wikipage
 category: diy
 ---
 

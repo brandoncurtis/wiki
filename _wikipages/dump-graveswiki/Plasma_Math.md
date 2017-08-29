@@ -1,7 +1,7 @@
 ---
 title: Plasma Math
 permalink: p/plasma-math
-layout: default
+layout: wikipage
 category: misc
 ---
 

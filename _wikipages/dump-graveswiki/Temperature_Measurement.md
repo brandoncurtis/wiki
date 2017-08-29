@@ -1,7 +1,7 @@
 ---
 title: Temperature Measurement
 permalink: p/temperature-measurement
-layout: default
+layout: wikipage
 category: diy
 ---
 

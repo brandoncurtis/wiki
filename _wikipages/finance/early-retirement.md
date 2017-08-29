@@ -1,7 +1,7 @@
 ---
 title: Financing Early Retirement
 permalink: p/early-retirement
-layout: default
+layout: wikipage
 category: finance
 featured: true
 ---

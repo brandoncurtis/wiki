@@ -1,7 +1,7 @@
 ---
 title: Google Docs
 permalink: p/google-docs
-layout: default
+layout: wikipage
 category: software
 ---
 

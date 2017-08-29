@@ -1,7 +1,7 @@
 ---
 title: Sage Math
 permalink: p/sage-math
-layout: default
+layout: wikipage
 category: software
 ---
 

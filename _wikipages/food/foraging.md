@@ -1,7 +1,7 @@
 ---
 title: Foraging
 permalink: p/foraging
-layout: default
+layout: wikipage
 category: food
 ---
 

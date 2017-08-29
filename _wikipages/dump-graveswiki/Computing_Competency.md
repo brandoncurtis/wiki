@@ -1,7 +1,7 @@
 ---
 title: Computing Competency
 permalink: p/computing-competency
-layout: default
+layout: wikipage
 category: misc
 ---
 

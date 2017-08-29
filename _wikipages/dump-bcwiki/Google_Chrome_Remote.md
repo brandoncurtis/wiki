@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Remote
 permalink: "/Google_Chrome_Remote/"
-layout: default
+layout: wikipage
 category: software
 ---
 

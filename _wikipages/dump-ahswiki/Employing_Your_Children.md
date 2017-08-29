@@ -1,7 +1,7 @@
 ---
 title: Employing Your Children
 permalink: p/employing-children
-layout: default
+layout: wikipage
 category: finance
 ---
 

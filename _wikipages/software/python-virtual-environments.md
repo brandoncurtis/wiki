@@ -1,7 +1,7 @@
 ---
 title: Python Development with Virtual Environments
 permalink: p/virtualenv
-layout: default
+layout: wikipage
 category: software
 featured: true
 description: Keep your Python development organized with virtual environments.

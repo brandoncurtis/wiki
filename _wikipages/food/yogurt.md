@@ -2,7 +2,7 @@
 title: Yogurt Fermentation
 permalink: p/yogurt
 category: food
-layout: default
+layout: wikipage
 ---
 
 Turn a small amount of commercial yogurt (or your own yogurt starter) into a large amount of custom yogurt!

@@ -1,7 +1,7 @@
 ---
 title: Oscilloscope Interfacing
 permalink: p/oscilloscope
-layout: default
+layout: wikipage
 category: software
 ---
 

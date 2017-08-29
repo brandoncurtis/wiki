@@ -1,7 +1,7 @@
 ---
 title: Homebrewing
 permalink: p/homebrewing
-layout: default
+layout: wikipage
 category: food
 ---
 

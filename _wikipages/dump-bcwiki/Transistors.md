@@ -1,7 +1,7 @@
 ---
 title: Transistors
 permalink: p/transistors
-layout: default
+layout: wikipage
 category: diy
 ---
 

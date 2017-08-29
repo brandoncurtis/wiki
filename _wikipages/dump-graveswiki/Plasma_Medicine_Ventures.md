@@ -1,7 +1,7 @@
 ---
 title: Plasma Medicine Ventures
 permalink: p/plasma-medicine-ventures
-layout: default
+layout: wikipage
 category: misc
 ---
 

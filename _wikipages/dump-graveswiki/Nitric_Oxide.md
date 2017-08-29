@@ -1,7 +1,7 @@
 ---
 title: Nitric Oxide
 permalink: p/nitric-oxide
-layout: default
+layout: wikipage
 category: misc
 ---
 

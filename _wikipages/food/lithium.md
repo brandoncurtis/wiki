@@ -1,7 +1,7 @@
 ---
 title: Lithium Supplementation
 permalink: p/lithium-supplementation
-layout: default
+layout: wikipage
 category: food
 ---
 

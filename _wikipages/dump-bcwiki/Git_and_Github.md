@@ -1,7 +1,7 @@
 ---
 title: Git and Github
 permalink: p/git
-layout: default
+layout: wikipage
 category: software
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: APIs for Scholarly Resources
 permalink: p/apis-for-scholars
-layout: default
+layout: wikipage
 category: software
 ---
 

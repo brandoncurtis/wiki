@@ -1,7 +1,7 @@
 ---
 title: Social Security
 permalink: p/social-security
-layout: default
+layout: wikipage
 category: finance
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python
 permalink: p/python
-layout: default
+layout: wikipage
 category: software
 ---
 

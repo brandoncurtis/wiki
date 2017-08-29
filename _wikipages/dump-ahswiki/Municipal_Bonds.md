@@ -1,7 +1,7 @@
 ---
 title: Municipal Bonds
 permalink: p/municipal-bonds
-layout: default
+layout: wikipage
 category: finance
 ---
 

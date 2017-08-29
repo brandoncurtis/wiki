@@ -1,7 +1,7 @@
 ---
 title: Plastic Bonding
 permalink: p/plastic-bonding
-layout: default
+layout: wikipage
 category: diy
 ---
 

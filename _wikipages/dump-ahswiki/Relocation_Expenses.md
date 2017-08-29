@@ -1,7 +1,7 @@
 ---
 title: Relocation Expenses
 permalink: p/relocation-expenses
-layout: default
+layout: wikipage
 category: finance
 ---
 

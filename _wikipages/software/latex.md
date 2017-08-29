@@ -1,7 +1,7 @@
 ---
 title: LaTeX Document Typesetting
 permalink: p/latex
-layout: default
+layout: wikipage
 category: software
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 555 and 556 Timer ICs
 permalink: p/timer-ics
-layout: default
+layout: wikipage
 category: diy
 ---
 

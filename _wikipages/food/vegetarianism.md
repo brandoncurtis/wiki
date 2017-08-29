@@ -1,7 +1,7 @@
 ---
 title: Vegetarianism
 permalink: p/vegetarianism
-layout: default
+layout: wikipage
 category: food
 ---
 

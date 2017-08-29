@@ -1,7 +1,7 @@
 ---
 title: Penn State Alumni Association
 permalink: p/penn-state-alumni
-layout: default
+layout: wikipage
 category: etc
 ---
 

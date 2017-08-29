@@ -1,7 +1,7 @@
 ---
 title: Philanthropy
 permalink: p/philanthropy
-layout: default
+layout: wikipage
 category: finance
 featured: true
 ---

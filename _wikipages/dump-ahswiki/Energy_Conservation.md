@@ -1,7 +1,7 @@
 ---
 title: Energy Conservation
 permalink: p/energy-conservation
-layout: default
+layout: wikipage
 category: conservation
 ---
 

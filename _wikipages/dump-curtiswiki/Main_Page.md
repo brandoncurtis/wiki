@@ -1,7 +1,7 @@
 ---
 title: Curtislab Main
 permalink: p/curtislab-main
-layout: default
+layout: wikipage
 category: misc
 ---
 

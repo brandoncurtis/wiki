@@ -1,7 +1,7 @@
 ---
 title: Become a Registered Investment Advisor
 permalink: p/registered-investment-advisor
-layout: default
+layout: wikipage
 category: finance
 ---
 

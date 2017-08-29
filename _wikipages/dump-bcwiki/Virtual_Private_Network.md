@@ -1,7 +1,7 @@
 ---
 title: Virtual Private Networks
 permalink: p/vpn
-layout: default
+layout: wikipage
 category: software
 ---
 

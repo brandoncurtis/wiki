@@ -1,7 +1,7 @@
 ---
 title: Atmospheric Pressure Plasma Devices
 permalink: p/atmospheric-pressure-plasma-devices
-layout: default
+layout: wikipage
 category: misc
 ---
 

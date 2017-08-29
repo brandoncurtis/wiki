@@ -1,7 +1,7 @@
 ---
 title: QT in Python
 permalink: p/pyqt
-layout: default
+layout: wikipage
 category: software
 ---
 

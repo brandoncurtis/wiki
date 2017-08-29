@@ -2,7 +2,7 @@
 title: Grilling
 permalink: p/grilling
 category: food
-layout: default
+layout: wikipage
 ---
 
 A gas grill is an delicious, cheap way to cook food.

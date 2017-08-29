@@ -1,7 +1,7 @@
 ---
 title: Employee Stock Purchase Plan
 permalink: p/employee-stock-purchase-plan
-layout: default
+layout: wikipage
 category: finance
 ---
 

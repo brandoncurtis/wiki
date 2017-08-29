@@ -1,7 +1,7 @@
 ---
 title: Investing Outside of Vanguard
 permalink: p/non-vanguard-investing
-layout: default
+layout: wikipage
 category: finance
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: High-Yield Savings
 permalink: p/high-yield-savings
-layout: default
+layout: wikipage
 category: finance
 ---
 

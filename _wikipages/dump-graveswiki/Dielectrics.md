@@ -1,7 +1,7 @@
 ---
 title: Dielectrics
 permalink: p/dielectrics
-layout: default
+layout: wikipage
 category: diy
 ---
 

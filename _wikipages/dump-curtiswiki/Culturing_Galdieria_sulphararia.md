@@ -1,7 +1,7 @@
 ---
 title: Culturing Galdieria sulphararia
 permalink: p/culturing-galdeiria-sulphararia
-layout: default
+layout: wikipage
 category: misc
 ---
 

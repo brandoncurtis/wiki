@@ -1,7 +1,7 @@
 ---
 title: Astronomy
 permalink: p/astronomy
-layout: default
+layout: wikipage
 category: diy
 ---
 

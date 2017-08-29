@@ -1,7 +1,7 @@
 ---
 title: Recipe - Stuffed Peppers
 permalink: p/stuffed-peppers
-layout: default
+layout: wikipage
 category: food
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Open Source Hardware
 permalink: p/open-source-hardware
-layout: default
+layout: wikipage
 category: misc
 ---
 

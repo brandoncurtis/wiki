@@ -1,7 +1,7 @@
 ---
 title: Caffeine
 permalink: p/caffeine
-layout: default
+layout: wikipage
 category: food
 featured: true
 ---

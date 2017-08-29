@@ -1,7 +1,7 @@
 ---
 title: Gardening
 permalink: p/gardening
-layout: default
+layout: wikipage
 category: food
 ---
 

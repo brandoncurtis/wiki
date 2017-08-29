@@ -1,7 +1,7 @@
 ---
 title: To Sort
 permalink: p/to-sort
-layout: default
+layout: wikipage
 category: misc
 ---
 
