@@ -4,11 +4,22 @@ layout: default
 
 {{ content }}
 
-<ul class="wikipages">
+{% assign catpages = (site.wikipages | where_exp:"wikipages","wikipages['category'] == page.category" | sort: 'title') %}
+{% assign catpages_featured = (catpages | where_exp:"wikipages","successes['featured'] == true") %}
+{% assign catpages_notfeatured = (catpages | where_exp:"wikipages","successes['featured'] != true") %}
 
-  {% for wikipage in site.wikipages %}
-  {% if wikipage.category == page.category %}
-    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
-  {% endif %}
-  {% endfor %}
+<h3>Featured Articles in {{ page.category }}</h3>
+
+<ul class="wikipages">
+{% for wikipage in catpages_featured %}
+  <li><a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h3>Other Articles</h3>
+
+<ul class="wikipages">
+{% for wikipage in catpages %}
+  <li><a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+{% endfor %}
 </ul>

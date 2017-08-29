@@ -10,7 +10,7 @@ image: "/images/bc-suit.jpg"
 
 	<ul class="wikipages">
 	  {% for wikihub in site.wikihubs %}
-	    <li> » <a href="{{ site.baseurl }}{{ wikihub.url }}" title="{{ wikihub.title }}">{{ wikihub.title }}</a></li>
+	    <li><a href="{{ site.baseurl }}{{ wikihub.url }}" title="{{ wikihub.title }}">{{ wikihub.title }}</a></li>
 	  {% endfor %}
 	</ul>
 
@@ -18,7 +18,7 @@ image: "/images/bc-suit.jpg"
 	<ul class="wikipages">
 	  {% for wikipage in site.wikipages %}
 	  {% if wikipage.featured == true %}
-	    <li> » <a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
+	    <li><a href="{{ site.baseurl }}{{ wikipage.url }}" title="{{ wikipage.title }}">{{ wikipage.title }}</a></li>
 	  {% endif %}
 	  {% endfor %}
 	</ul>
