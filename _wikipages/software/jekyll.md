@@ -1,13 +1,10 @@
 ---
 title: Jekyll for Static Sites
 permalink: p/jekyll
-layout: default
+layout: wikipage
 category: software
 featured: true
 ---
-
-* Will be replaced with the ToC
-{:toc}
 
 ## GitHub Pages Generates Sites With Jekyll
 
