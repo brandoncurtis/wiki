@@ -1,45 +1,69 @@
 body {
     font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     margin: 60px auto;
-    width: 70%;
+    width: 1000px;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
+style="color:white; background-color:black; margin:0px auto; display:inline-block; padding:12px; border-radius:10px;"
+
+
 h1 {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 2.5em;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  color: white;
+  background-color: black;
+  margin: 0px auto;
+  display: inline-block;
+  padding: 12px;
+  border-radius: 10px;
 }
+
 p {
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
+    margin:0px 0px 0px 20px;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
+
 ul.posts li {
     list-style: none;
 }
+
 code {
   white-space: pre-wrap;
+}
+
+.container {
+  background-color: white;
 }
