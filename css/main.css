@@ -2,7 +2,6 @@ body {
     font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     margin: 0px auto 60px auto;
     width: 1000px;
-    background-color: yellow;
 }
 
 nav ul, footer ul {
