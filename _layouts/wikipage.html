@@ -2,14 +2,6 @@
 layout: default
 ---
 
-{% capture md %}
-### Category: [{{ page.category }}]({{ site.baseurl }}/h/{{ page.category }})
-
-* Will be replaced with the ToC
-{:toc}
-
-----
-{% endcapture %}
-{{ md | markdownify }}
+<h3>Category: <a href="{{ site.baseurl }}/h/{{ page.category }}">{{ page.category }}</a></h3>
 
 {{ content }}
