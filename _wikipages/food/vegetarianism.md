@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 Meat is resource-intensive, and [we grow way too much of it](https://xkcd.com/1338/). Eat less of it.
 
 Economic Impacts

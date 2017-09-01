@@ -6,6 +6,11 @@ category: finance
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 Summary
 -------
 
@@ -59,4 +64,3 @@ I decided to try [contacting the US Department of the Treasury](http://treasuryd
     -- Brandon
 
 I will update when I hear back.
-

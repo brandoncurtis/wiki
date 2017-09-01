@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 Like any food, there are certain health risks associated with fermented foods. These risks are vastly overstated in the media.
 
 Botulism

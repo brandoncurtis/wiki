@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 Installing LaTeX in Ubuntu 14.04 Trusty Tahr
 --------------------------------------------
 

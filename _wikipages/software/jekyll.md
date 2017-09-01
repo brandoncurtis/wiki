@@ -11,6 +11,11 @@ featured: true
 
 ----
 
+* toc
+{:toc}
+
+----
+
 ## GitHub Pages Generates Sites With Jekyll
 
 Jekyll is a tool called a "static site generator".  The goal of a static site generator is to effectively separator a site's content from its layout and style.
@@ -40,37 +45,37 @@ Liquid tags are the key to fully utilizing Jekyll; they're discussed in-depth in
     + <https://github.com/blab/blotter>
   + <http://girke.bioinformatics.ucr.edu/>
     + <https://github.com/tgirke/tgirke.github.io>
-  + http://notebook.madsenlab.org/
-    + https://github.com/mmadsen/lnraw
-  + http://www.carlboettiger.info/
-    + https://github.com/cboettig/labnotebook
-  + http://scholarslab.org/
-    + https://github.com/scholarslab/scholarslab.org
-  + http://blog.evercodelab.com/
-    + https://github.com/EvercodeLab/blog.evercodelab.com
+  + <http://notebook.madsenlab.org/>
+    + <https://github.com/mmadsen/lnraw>
+  + <http://www.carlboettiger.info/>
+    + <https://github.com/cboettig/labnotebook>
+  + <http://scholarslab.org/>
+    + <https://github.com/scholarslab/scholarslab.org>
+  + <http://blog.evercodelab.com/>
+    + <https://github.com/EvercodeLab/blog.evercodelab.com>
 + Not Great
 + Unverified
-  + http://primaresearch.org/
-  + https://edwards.sdsu.edu/research/
-  + https://waldronlab.github.io/
-  + http://www.allanlab.org/
-    + https://github.com/allanlab/allanlab
-  + http://arfc.npre.illinois.edu/
-    + http://kdhuff.npre.illinois.edu/
-    + github.com/arfc/arfc.github.io
-  + http://rglab.org/
-    + https://github.com/RGLab/rglab.github.io
-+ https://ccs-lab.github.io/
+  + <http://primaresearch.org/>
+  + <https://edwards.sdsu.edu/research/>
+  + <https://waldronlab.github.io/>
+  + <http://www.allanlab.org/>
+    + <https://github.com/allanlab/allanlab>
+  + <http://arfc.npre.illinois.edu/>
+    + <http://kdhuff.npre.illinois.edu/>
+    + <https://github.com/arfc/arfc.github.io>
+  + <http://rglab.org/>
+    + <https://github.com/RGLab/rglab.github.io>
++ <https://ccs-lab.github.io/>
   + based on Trevor Bedford's bedford.io
-    + https://github.com/blab/blotter
+    + <https://github.com/blab/blotter>
   + adopts stuff from Allan Drummond
-    + https://github.com/drummondlab/drummondlab.github.io
+    + <https://github.com/drummondlab/drummondlab.github.io>
   + repo must be private!
-+ http://www.molpopgen.org/
-  + repo: https://github.com/ThorntonLab/ThorntonLab.github.io
-+ http://notebook.aaronwest.net/
++ <http://www.molpopgen.org/
+  + repo: <https://github.com/ThorntonLab/ThorntonLab.github.io>
++ <http://notebook.aaronwest.net/>
   + "engineering notebook"
-  + repo: https://github.com/aaronwest/aaronwest.github.io/
+  + repo: <https://github.com/aaronwest/aaronwest.github.io/>
 
 
 ## Practical Use
@@ -78,13 +83,13 @@ Liquid tags are the key to fully utilizing Jekyll; they're discussed in-depth in
 ### Alternatives to Jekyll
 
 + Hugo
-  + http://www.carlboettiger.info/2017/04/19/migrating-to-hugo-and-blogdown/
+  + <http://www.carlboettiger.info/2017/04/19/migrating-to-hugo-and-blogdown/>
 + Rails?
-  + https://publiclab.org/
-  + https://github.com/publiclab/plots2
+  + <https://publiclab.org/>
+  + <https://github.com/publiclab/plots2>
 + Node
-  + https://evercodelab.com/
-  + https://github.com/EvercodeLab/evercodelab.com
+  + <https://evercodelab.com/>
+  + <https://github.com/EvercodeLab/evercodelab.com>
 
 ### Gotchas
 
@@ -95,11 +100,11 @@ Avoid [problems with relative links](https://github.com/jekyll/jekyll/issues/332
 
 [Philip Ashlock's Mediawiki-to-Markdown converter](https://github.com/philipashlock/mediawiki-to-markdown) will convert your wiki's XML dumps directly to Markdown with frontmatter (or any one of a variety of other Pandoc-supported formats).
 
-    http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/
-    https://github.com/gollum/gollum
-    https://github.com/philipashlock/mediawiki-to-markdown
++ <http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/>
++ <https://github.com/gollum/gollum>
++ <https://github.com/philipashlock/mediawiki-to-markdown>
++ <https://www.mediawiki.org/wiki/Manual:DumpBackup.php>
 
-    https://www.mediawiki.org/wiki/Manual:DumpBackup.php
     php dumpBackup.php --conf /var/www2/www-bsc/wiki/LocalSettings.php --full > dump.xml
 
     sudo apt-get install php5-cli
@@ -134,9 +139,9 @@ Avoid [problems with relative links](https://github.com/jekyll/jekyll/issues/332
 
     References:
 
-    + https://docs.google.com/document/d/13g7Znpmt-uawgyNtxTrvirBidy6M52TNilFqoyOSyrE/edit#
-    + https://docs.google.com/document/d/1wT4mRR-8O67I7CKksu10-j5c-6s40SZARbqSoDCXYLY/edit#
-    + https://docs.google.com/document/d/1vApYi5CijrpawS9AkOpFoyv1jtDwthvy7QJxzEDs0BI/edit#
+    + <https://docs.google.com/document/d/13g7Znpmt-uawgyNtxTrvirBidy6M52TNilFqoyOSyrE/>
+    + <https://docs.google.com/document/d/1wT4mRR-8O67I7CKksu10-j5c-6s40SZARbqSoDCXYLY/>
+    + <https://docs.google.com/document/d/1vApYi5CijrpawS9AkOpFoyv1jtDwthvy7QJxzEDs0BI/>
 
 
     ## mysqldump generates invalid xml
@@ -154,8 +159,8 @@ Avoid [problems with relative links](https://github.com/jekyll/jekyll/issues/332
 
     This problem is referenced elsewhere:
 
-    + https://rpbouman.blogspot.com/2010/04/restoring-xml-formatted-mysql-dumps.html
-    + https://bugs.mysql.com/bug.php?id=19745
+    + <https://rpbouman.blogspot.com/2010/04/restoring-xml-formatted-mysql-dumps.html>
+    + <https://bugs.mysql.com/bug.php?id=19745>
 
     "mysqldump produces invalid xml when data contains blobs. It should  respect the hex-blob switch, but it is ignored."
 
@@ -164,19 +169,19 @@ Avoid [problems with relative links](https://github.com/jekyll/jekyll/issues/332
 
 Jekyll guides
 
-+ http://blog.evercodelab.com/from-posterous-to-octopress-plus-github-dot-pages/
-+ http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/
-+ http://jlord.us/forkngo/
-+ https://drjekyllthemes.github.io/
-+ https://github.com/showcases/github-pages-examples
++ <http://blog.evercodelab.com/from-posterous-to-octopress-plus-github-dot-pages/>
++ <http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/>
++ <http://jlord.us/forkngo/>
++ <https://drjekyllthemes.github.io/>
++ <https://github.com/showcases/github-pages-examples>
 
 Other articles
 
-+ https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
-+ https://jekyllrb.com/docs/github-pages/
-+ https://24ways.org/2013/get-started-with-github-pages/
-+ https://jekyllrb.com/docs/variables/
-+ http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/
++ <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/>
++ <https://jekyllrb.com/docs/github-pages/>
++ <https://24ways.org/2013/get-started-with-github-pages/>
++ <https://jekyllrb.com/docs/variables/>
++ <http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/>
 + [Ten Simple Rules for Taking Advantage of Git and GitHub](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/)
 + [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
 + [What's This Engineering Notebook All About?](http://notebook.aaronwest.net/2015/08/17/engineering-notebook.html)

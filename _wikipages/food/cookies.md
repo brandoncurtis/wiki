@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 Cookies are delicious.
 
 Snickerdoodles

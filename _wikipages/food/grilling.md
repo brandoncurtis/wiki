@@ -5,6 +5,11 @@ category: food
 layout: wikipage
 ---
 
+* toc
+{:toc}
+
+----
+
 A gas grill is an delicious, cheap way to cook food.
 
 Propane Tank Capacity

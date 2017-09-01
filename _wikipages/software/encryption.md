@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 ## Keybase
 
 Using the Keybase command line app

@@ -6,6 +6,11 @@ category: finance
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 Once you've maxed out your IRA and employer sponsored plans and you're already saving a decent amount in a taxable brokerage account, consider adding a few percent of a nontraditional investment. They can be fun and may offer returns that are uncorrelated with or larger than the stock market's returns, but they often have hidden systematic risks. Be careful out there!
 
 [Nontraditional Investments on AndHigherStill.com](http://www.andhigherstill.com/2013/09/nontraditional-investments.html)
@@ -38,7 +43,7 @@ Accredited investors only!
   - https://www.windcentrale.nl/
   - https://www.abundanceinvestment.com/
   - https://www.zonnepanelendelen.nl/
-  - 
+  -
 
 
 ### Crowdsun
@@ -148,7 +153,7 @@ This platform appears to have only funded a few projects.
 
 + https://www.jointrine.com/
 
-> As a crowd funding company we seek to democratize finance be allowing anyone to have an impact and invest, however, there are still some limitations. Investors on our platform must be at least 18 years old. Additionally, due to financial regulations, we currently cannot accept investments from the United States. We are, however, working on this and hope to be open to US investments in the future. 
+> As a crowd funding company we seek to democratize finance be allowing anyone to have an impact and invest, however, there are still some limitations. Investors on our platform must be at least 18 years old. Additionally, due to financial regulations, we currently cannot accept investments from the United States. We are, however, working on this and hope to be open to US investments in the future.
 
 
 ### Solar Line

@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 1) increase the speed of USB acquisition from the oscilloscope?
 
 mkvirtualenv --python=$(which python3) dev3

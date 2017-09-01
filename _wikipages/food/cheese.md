@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 Easy to make with a few supplies you can buy online.
 
 Cheesemaking Supplies

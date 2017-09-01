@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 ### Google Hangouts and Voice
 
 [Google Voice integration with Pidgin using the Google Hangouts protocol](http://www.webupd8.org/2016/04/use-google-hangouts-with-extra-features.html)
@@ -20,4 +25,3 @@ If you arrange your Hangouts contacts into folders on one machine and then move 
 ## Toolbar Icon
 
 [Ubuntu appindicator Plugin for Pidgin](http://www.webupd8.org/2014/01/pidgin-indicator-ubuntu-appindicator.html)
-

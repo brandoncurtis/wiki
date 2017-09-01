@@ -5,6 +5,11 @@ category: food
 layout: wikipage
 ---
 
+* toc
+{:toc}
+
+----
+
 Kefir is delicious. Let's optimize it.
 
 Kefir Culture Conditions

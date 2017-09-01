@@ -6,6 +6,11 @@ category: software
 math: true
 ---
 
+* toc
+{:toc}
+
+----
+
 ### Overview
 
 [Pandoc](http://pandoc.org/) is a command line tool for interconverting between markup languages.  Pandoc supports common languages like HTML, Markdown, and LaTeX, common document formats like docx and epub, and lots of weird stuff I've never heard of before.

@@ -6,6 +6,11 @@ category: food
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 Mmm caffeine. Improve your productivity, but don't overdo it.
 
 Health Effects of Caffeine

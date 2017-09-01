@@ -6,6 +6,11 @@ permalink: p/lentils
 featured: false
 ---
 
+* toc
+{:toc}
+
+----
+
 ## Betty Crocker lentil recipe
 
 + 1 lb lentils (1 tall mason jar)
@@ -21,4 +26,3 @@ featured: false
 + hot sauce
 + salt
 + pepper
-

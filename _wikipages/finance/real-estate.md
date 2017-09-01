@@ -6,6 +6,11 @@ category: finance
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 While many older relatives, friends, and real estate agents may assure you that buying a house is always a good idea, the relative merits of buying and renting depend on a large number of variables, financial and otherwise. Run the numbers yourself and consider the arguments below when making your decision.
 
 > Don't get distracted by the 'buy vs. rent' debate—the cost difference in most scenarios is modest. To save significant money, **buy or rent a smaller, less expensive place**!

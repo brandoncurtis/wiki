@@ -5,6 +5,11 @@ category: food
 layout: wikipage
 ---
 
+* toc
+{:toc}
+
+----
+
 Kimchi is a delicious traditional Korean fermented vegetable dish. It is very easy to make at home.
 
 Common Ingredients

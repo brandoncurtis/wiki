@@ -6,6 +6,11 @@ category: software
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 ## DHCP
 
 `sudo nano /etc/systemd/network/wired.network`

@@ -9,6 +9,11 @@ image: "/images/bc-suit.jpg"
 author: brandoncurtis
 ---
 
+* toc
+{:toc}
+
+----
+
 Topics to cover:
 
 -   Pip

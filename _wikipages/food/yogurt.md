@@ -5,6 +5,11 @@ category: food
 layout: wikipage
 ---
 
+* toc
+{:toc}
+
+----
+
 Turn a small amount of commercial yogurt (or your own yogurt starter) into a large amount of custom yogurt!
 
 Yogurt Recipes

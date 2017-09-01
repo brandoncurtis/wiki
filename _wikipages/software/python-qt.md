@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 What's the difference between QT's QWidget and QMainWindow?
 + https://stackoverflow.com/questions/18897695/pyqt4-difference-between-qwidget-and-qmainwindow
 

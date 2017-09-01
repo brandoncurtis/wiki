@@ -6,6 +6,11 @@ category: finance
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 Are you self-employed? Do you work as a contractor, a consultant, or otherwise receive compensation that you must pay self-employment tax on? There are special retirement savings plans available just for you!
 
 Which To Choose?
@@ -148,4 +153,3 @@ This [Bogleheads forum post](http://www.bogleheads.org/forum/viewtopic.php?p=112
 "The plan permits three types of contributions: employee individual (pre-tax) salary deferral, employee Roth (after-tax) salary deferral, and employer traditional (pre-tax)."
 
 "I have a Solo 401K with Roth option directly with Vanguard. I also have another one with T. Rowe Price (because they offered one a few years before Vanguard did). There is one additional page of paperwork you have to fill out to declare you want the Roth component. Not a big deal."
-

@@ -6,6 +6,11 @@ category: finance
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 If you're planning on retiring early, having 'enough' money is only half of the battle: **the money must be accessible for withdrawal in the amounts and at the times you need it**.
 
 An important part of retirement planning is ensuring that your financial pipeline is full—that you will always have sufficient withdrawal capacity to cover your expenses, plus a margin of safety.
@@ -69,4 +74,3 @@ Social Security
 ---------------
 
 If you were born in 1960 or later, [your full retirement age is 67](http://www.ssa.gov/planners/retire/1960.html). You can begin receiving benefits as early as 62, but you'll receive 25% less to compensate. If you delay retirement to age 70, [you'll receive 24% extra](http://www.ssa.gov/planners/retire/1960-delay.html)!
-

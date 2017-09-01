@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 goal: make a thing I can replace meals with when I'm ultra-busy.
 
 the thing should be relatively healthy, cheap, and straightforward to

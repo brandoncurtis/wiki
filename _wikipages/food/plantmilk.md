@@ -5,6 +5,11 @@ category: food
 layout: wikipage
 ---
 
+* toc
+{:toc}
+
+----
+
 Almond Milk
 -----------
 

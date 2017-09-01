@@ -5,6 +5,11 @@ layout: wikipage
 category: food
 ---
 
+* toc
+{:toc}
+
+----
+
 ## Stuffed Peppers
 
 ### As Prepared By Lorrie

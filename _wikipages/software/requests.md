@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 ### Overview
 
 This is a list of tools that I'd like to have and things that I'd like to know how to do.  I'm looking for suggestions, so [contact me](https://www.brandoncurtis.com/contact) if you have ideas!  My hope is that I will be able to build my own solutions as my programming skills complete.
@@ -35,7 +40,7 @@ printf "%s\t%s\n" ${a[*]}
 1	2
 3	4
 5	6
-7	
+7
 ```
 
 note that `${a[*]}` notation mass-expands the array elements.
@@ -48,7 +53,7 @@ In Python, this is NOT the case:
 ```python
 a = [1,2,3,4,5,6,7]
 print("{:<4}{:<4}".format(*a))
-1   2 
+1   2
 ```
 
 note that `*a` notation mass-expands the list elements.
@@ -81,5 +86,3 @@ Bash Hackers Syntax Wiki: http://wiki.bash-hackers.org/syntax/arrays
 Bash Printf Syntax Basics: https://linuxconfig.org/bash-printf-syntax-basics-with-examples
 
 "If there are more arguments than specifiers the format string is reused until all arguments had been depleted. "
-
-

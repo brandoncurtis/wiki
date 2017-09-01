@@ -5,6 +5,11 @@ layout: wikipage
 category: software
 ---
 
+* toc
+{:toc}
+
+----
+
 ### My Packages
 
 accessible via `apm list --installed --bare`

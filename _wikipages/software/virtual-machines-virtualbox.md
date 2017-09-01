@@ -6,6 +6,11 @@ category: software
 featured: true
 ---
 
+* toc
+{:toc}
+
+----
+
 Ubuntu 16.04
 ------------
 

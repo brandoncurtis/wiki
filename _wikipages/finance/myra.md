@@ -5,6 +5,11 @@ layout: wikipage
 category: finance
 ---
 
+* toc
+{:toc}
+
+----
+
 The [MyRA](http://en.wikipedia.org/wiki/MyRA) is a new form of introductory retirement account announced by President Obama in 2014 and launched by the US Treasury in 2015. It is a Roth IRA funded by direct deposit and invested in government securities, similar to the Thrift Savings Plan (TSP) "G" Fund.
 
 The MyRA program was [https://www.nytimes.com/2017/07/28/business/treasury-retirement-myra-obama.html shut down by President Trump's Treasury department in late July, 2017].

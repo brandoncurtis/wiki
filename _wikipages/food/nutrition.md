@@ -8,6 +8,11 @@ layout: wikipage
 Food APIs
 ---------
 
+* toc
+{:toc}
+
+----
+
 [ProgrammableWeb: Food APIs](http://www.programmableweb.com/category/food/apis?category=20048)
 
 [StackExchange OpenData: Open API for Nutritional Information](http://opendata.stackexchange.com/questions/269/open-api-for-nutritional-information-and-or-food-barcodes)
