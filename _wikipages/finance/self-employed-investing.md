@@ -13,8 +13,7 @@ featured: true
 
 Are you self-employed? Do you work as a contractor, a consultant, or otherwise receive compensation that you must pay self-employment tax on? There are special retirement savings plans available just for you!
 
-Which To Choose?
-----------------
+## Which To Choose?
 
 CNN Money has a detailed description of the [retirement plans available to the self-employed](http://money.cnn.com/retirement/guide/SelfEmployed/).
 
@@ -113,8 +112,7 @@ Pronounced 'key-oh'. They are paperwork-heavy and were largely supplanted by SEP
 -   [Keogh Plan @ Wikipedia](https://en.wikipedia.org/wiki/Keogh_Plan)
 -   [Keogh Plan @ Bogleheads Investor Wiki](http://www.bogleheads.org/wiki/Keogh_plan)
 
-Contributions if Employed AND Self-Employed
--------------------------------------------
+## Contributions if Employed AND Self-Employed
 
 What is the absolute maximum it would be possible to contribute to tax-advantaged retirement plans in 2014 if you worked at an employer AND had a side-business?
 
@@ -137,8 +135,7 @@ In most cases, the Solo 401(k) has a higher practical contribution limit because
 
 "To figure out your net adjusted self-employment income, [the IRS recommends](http://www.irs.gov/publications/p560/ch05.html) taking your gross income, subtract business expenses (the tricky part is that business expenses should include SEP IRA contributions) and subtract half of the self-employment tax."
 
-Real-Life Experience With These Plans
--------------------------------------
+## Real-Life Experience With These Plans
 
 This [Bogleheads forum post](http://www.bogleheads.org/forum/viewtopic.php?p=1128695) features several self-employed people discussing the practical difficulties of setting up a Solo 401(k):
 

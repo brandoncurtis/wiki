@@ -19,13 +19,12 @@ The American retirement system is built to support retirement around the ages of
 
 For the purpose of these demos, we will assume a reasonable after-tax investment return of 5%.
 
-The Taxable Account
--------------------
+## The Taxable Account
 
 This money is fair game at any time. Start your withdrawals here, but do your best to stay in a low tax bracket!
 
-The IRA
--------
+
+## The IRA
 
 Earnings in an IRA become available at age 59.5.
 
@@ -63,14 +62,12 @@ Read more:
 -   [72t.net - links to calculators, current interest rates, &etc](http://www.72t.net/)
 -   [26 USC §72, the legal basis for SEPP](https://www.law.cornell.edu/uscode/text/26/72)
 
-The 401(k)
-----------
+## The 401(k)
 
 Principal and earnings in a 401(k) become available at age 59.5.
 
 Working for 10 years at current contribution limits, one could amass $175,000 in principal.
 
-Social Security
----------------
+## Social Security
 
 If you were born in 1960 or later, [your full retirement age is 67](http://www.ssa.gov/planners/retire/1960.html). You can begin receiving benefits as early as 62, but you'll receive 25% less to compensate. If you delay retirement to age 70, [you'll receive 24% extra](http://www.ssa.gov/planners/retire/1960-delay.html)!

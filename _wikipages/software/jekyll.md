@@ -11,11 +11,6 @@ featured: true
 
 ----
 
-* toc
-{:toc}
-
-----
-
 ## GitHub Pages Generates Sites With Jekyll
 
 Jekyll is a tool called a "static site generator".  The goal of a static site generator is to effectively separator a site's content from its layout and style.

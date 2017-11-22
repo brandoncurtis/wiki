@@ -15,8 +15,7 @@ While many older relatives, friends, and real estate agents may assure you that 
 
 > Don't get distracted by the 'buy vs. rent' debate—the cost difference in most scenarios is modest. To save significant money, **buy or rent a smaller, less expensive place**!
 
-Overview
---------
+## Overview
 
 Real estate is a historically terrible long-term investment, yielding just over 0% inflation-adjusted return over the last 100 years. Imputed rent rarely compensates for 0\] debt service, 1\] property taxes, 2\] maintenance and repairs, 3\] transaction taxes and fees, 4\] lack of diversification, 5\] ultra-high leverage, and 6\] illiquidity. In lifestyle engineering terms, tying oneself to a physical location via a highly-leveraged financial contract ('mortgage') greatly reduces the personal flexibility to change locations, and carries with it a difficult-to-avoid temptation to accumulate a vast collection of unnecessary junk.
 
@@ -34,8 +33,7 @@ Many books and articles have been written on this topic, so I won't repeat it al
 
 <http://www.caniretireyet.com/renting-vs-buying-true-cost-home-ownership/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+caniretireyet+%28CanIRetireYet.com%29>
 
-Potential Downsides of Owning
------------------------------
+## Potential Downsides of Owning
 
 It can be argued that indiscriminate homeownership is a cornerstone of modern self-inflicted wage slavery. Upper management at major companies regularly joke that "get 'em a house, get 'em a spouse" is the surest way to retain employees. If you want to buy, tread carefully, crunch the numbers, and consider these potential downsides:
 
@@ -55,8 +53,7 @@ It can be argued that indiscriminate homeownership is a cornerstone of modern se
 
 **Downside \#8:** The cost of renting is right on the box; the cost of owning is complicated by debt service, property taxes, maintenance, insurance, transaction costs, opportunity costs, tax incentives, and home appreciation. Average long-term rates of return on housing have historically lagged the stock market by a significant margin.
 
-Remodeling and Sweat Equity
----------------------------
+## Remodeling and Sweat Equity
 
 Many people believe that they can significantly increase the resale value of their homes by remodeling. This is not necessarily true.
 
@@ -66,15 +63,13 @@ None of these projects adds more than 100% of the cost to the resale value, mean
 
 What if you skip the contractor and build 'sweat equity' by doing it yourself? This depends on whether you already possess the skills and tools and how you would account for the time invested: would you enjoy it, or would it ruin your free time, strain your relationships, and stress you out? Even if you DIY, some improvements—HVAC, high-end fixtures, landscaping, special-use rooms, overbuilding for the neighborhood—usually add little value and even make it more difficult to sell: <http://www.forbes.com/sites/investopedia/2013/05/19/6-things-you-think-add-value-to-your-home-but-really-dont/>
 
-Becoming A Landlord
--------------------
+## Becoming A Landlord
 
 Buying smart and renting **can** make money. But make no mistake: being a landlord is a business that requires significant work, planning, knowledge and assets; it is in no way comparable to the alternative of renting, tossing money into the stock market, and forgetting about it.
 
-Land Taxes
-----------
+## Land Taxes
 
-Space and the city
+### Space and the city
 
 <http://www.economist.com/news/leaders/21647614-poor-land-use-worlds-greatest-cities-carries-huge-cost-space-and-city>
 
@@ -84,9 +79,7 @@ Space and the city
 
 "Second, governments should impose higher taxes on the value of land. In most rich countries, land-value taxes account for a small share of total revenues. Land taxes are efficient. They are difficult to dodge; you cannot stuff land into a bank-vault in Luxembourg. Whereas a high tax on property can discourage investment, a high tax on land creates an incentive to develop unused sites. Land-value taxes can also help cater for newcomers. New infrastructure raises the value of nearby land, automatically feeding through into revenues—which helps to pay for the improvements."
 
-------------------------------------------------------------------------
-
-Why Henry George had a point
+### Why Henry George had a point
 
 <http://www.economist.com/blogs/freeexchange/2015/04/land-value-tax>
 
@@ -100,8 +93,7 @@ Land-value taxes, on the other hand, lack these perverse effects. They cannot re
 
 Other economists like it too. Adam Smith said “nothing could be more reasonable”; Milton Friedman termed it “the least bad tax”. Winston Churchill said scornfully that a landlord “contributes nothing to the process from which his own enrichment is derived”."
 
-References
-----------
+## References
 
 -   [Google spreadsheet for comparing the lifetime costs of buying versus renting, with fully adjustable parameters](https://docs.google.com/spreadsheets/d/1ByhkJgcsuIxht_4OpxVqzPhuCDBWk3G8lbJ1W_MDzz0/edit#gid=0)
 -   [Is It Better to Rent or Buy? An NYT Calculator](http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
@@ -160,8 +152,7 @@ References
 
 <http://jlcollinsnh.com/2014/02/20/case-study-10-should-josiah-buy-his-parents-a-house/>
 
-To Sort
--------
+## To Sort
 
     a) to lock people in a new and very interesting form of wage slavery
     b) to encourage them to spend all sorts of money they don't have on upgrades and accouterments for their new nest

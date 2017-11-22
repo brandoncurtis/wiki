@@ -11,8 +11,7 @@ featured: true
 
 ----
 
-Summary
--------
+## Summary
 
 The R-Bond ("Retirement Bond") was supposed to launch in January 2014; it's now March 2015 and still no sign... or even another mention in the media! The idea's a simple alternative to [ETF-based strategies for starting an IRA in the double- or triple-digits](http://www.andhigherstill.com/2013/04/investing-with-100.html), but the concept still seems ill-defined and unlikely to materialize in the short-term. It doesn't look like it will offer any advantage if you already contribute to a normal IRA, but removing the earned-income requirement and allowing them to be rolled over into an IRA could provide a solid option for [graduate students who aren't eligible for IRA contributions](http://www.andhigherstill.com/2013/04/graduate-students-roth-iras-and-529.html).
 
@@ -20,8 +19,7 @@ These should not be confused with old, obsolete ["U.S. Individual Retirement Bon
 
 I have a feeling that the R-bond plan was supplanted by the myRA. Both are discussed in [this Bogleheads forum post](http://www.bogleheads.org/forum/viewtopic.php?f=1&t=131853&p=1941809).
 
-References
-----------
+## References
 
 **For retirement, are R-Bonds right for you?**
 via: <http://www.marketwatch.com/story/for-retirement-are-r-bonds-right-for-you-2013-11-09/> (2013-11)
@@ -34,8 +32,6 @@ via: <http://www.marketwatch.com/story/for-retirement-are-r-bonds-right-for-you-
 
 This is the Financial Advisor report cited in this article: [Retirement Bonds On Front Burner Of Treasury Department](http://www.fa-mag.com/news/retirement-bonds-on-front-burner-of-treasury-department-15874.html). This source and [this presentation](http://www.d2dfund.org/files/Dec%2019%202013%20SBWG%20Presentation%20pps%20final.pps) states that it would target the self- and un-employed, while another article written the same day—[Treasury weight 'retirement' bonds](http://www.benefitspro.com/2013/10/28/treasury-weighing-retirement-bonds)—states that "Only full-time employees whose employers offered no retirement savings plans would be eligible to buy the bonds...". Both reference the same original source: a presentation by Mark Iwry, assistant secretary (tax policy) for retirement and health policy at the US Treasury, to the Women’s Institute for a Secure Retirement annual symposium in Washington, D.C.. The presentation appears in the [symposium agenda](https://www.wiserwomen.org/images/imagefiles/2013_Symposium_Agenda.FINAL.pdf) but is [not among those available for download](http://www.wiserwomen.org/index.php?id=752&page=2013-symposium).
 
-------------------------------------------------------------------------
-
 **Administration explores 'R bond' as option for retirement accounts**
 via: <http://www.investmentnews.com/article/20090607/REG/906059955> (2009-06)
 
@@ -43,8 +39,7 @@ via: <http://www.investmentnews.com/article/20090607/REG/906059955> (2009-06)
 
 "R bonds, Mr. Iwry said, could serve as the “training wheels” that would allow workers’ auto-IRAs to grow to the point where they would be more attractive to the financial services community. Essentially, these bonds would serve as the bridge between the public and private sectors in the auto-IRA program, he added."
 
-My Email
---------
+## My Email
 
 I decided to try [contacting the US Department of the Treasury](http://treasurydirect.gov/email.htm) to see what the status is:
 
