@@ -3,8 +3,7 @@ title: Configuring Ubuntu 16.04 LTS
 permalink: "/Configuring_Ubuntu_16.04_LTS/"
 ---
 
-Software Installation
----------------------
+## Software Installation
 
 [Create and customize launcher icons by hand](http://askubuntu.com/questions/13758/how-can-i-edit-create-new-launcher-items-in-unity-by-hand)
 
@@ -67,8 +66,8 @@ The [latest stable version of the Arduino IDE in the repositories is 1.0.5](http
 -   Firefox Sync
 -   Github Authentication
 
-Configuration Commands
-----------------------
+
+## Configuration Commands
 
 ### Look and Feel
 
@@ -94,38 +93,60 @@ Note that these keys will NOT exist in a fresh install - they'll appear when you
       LC_PAPER="en_US.UTF-8"
       LC_MEASUREMENT="en_GB.UTF-8"
 
+
 ### Operating System Settings
 
-    mkdir ~/repo
+Change the default terminal to use Tilix
 
-    ssh-keygen
++ https://askubuntu.com/questions/70540/how-can-i-set-default-terminal-used-in-unity
 
-    sudo nano /etc/sysctl.conf
-      # Decrease swap usage
-      vm.swappiness=10
+```bash
+gsettings set org.gnome.desktop.default-applications.terminal exec 'tilix'
+```
+ 
+Remove Unity Shopping Lens
 
-    DOESN'T WORK:
-    sudo apt purge unity-lens-shopping
+DOESN'T WORK:
 
-    via: http://www.pcworld.com/article/2840401/ubuntus-unity-8-desktop-removes-the-amazon-search-spyware.html
-    eliminated in Unity 8, but default is Unity 7
+```bash
+sudo apt purge unity-lens-shopping
+```
++ http://www.pcworld.com/article/2840401/ubuntus-unity-8-desktop-removes-the-amazon-search-spyware.html
++ eliminated in Unity 8, but default is Unity 7
 
-    via: http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts
-    online search is disabled by default in Unity 7
++  http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts
++ online search is disabled by default in Unity 7
 
-    via: https://wiki.ubuntu.com/Unity8Desktop
-    Install Unity 8 preview with Mir desktop:
-    sudo apt install unity8-desktop-session-mir
+```bash
+mkdir ~/repo
+  ssh-keygen
 
-    more stuff via: http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts
+sudo nano /etc/sysctl.conf
+# Decrease swap usage
+vm.swappiness=10
+```
 
-    Enable ‘Minimise on Click’
-    gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true
++ https://wiki.ubuntu.com/Unity8Desktop
++ Install Unity 8 preview with Mir desktop:
 
-    Move The Unity Launcher
-    gsettings set com.canonical.Unity.Launcher launcher-position Bottom
-    ----
-    https://bitbucket.org/cffi/cffi/issues/38/sudo-pip-install-cffi-fails-under-ubuntu
+```bash
+sudo apt install unity8-desktop-session-mir
+```
+
++ more stuff via: http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts
+
+Enable ‘Minimise on Click’
+
+```bash
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true
+```
+
+ Move The Unity Launcher
+ 
+ ```bash
+ gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+ ```
+
 
 ### Virtual Environments for Python Development
 
@@ -144,16 +165,16 @@ Setting up virtualenvwrapper:
     pip install requests[security]
     pip install numpy scipy matplotlib jupyter
 
-RAID Configuration
-------------------
+
+## RAID Configuration
 
 -   [mdadm Cheat Sheet](http://www.ducea.com/2009/03/08/mdadm-cheat-sheet/)
 -   [Linux RAID Setup](https://raid.wiki.kernel.org/index.php/RAID_setup)
 
 To get an existing RAID1 array working after adding its configuration information to /dev/mdadm/mdadm.conf, I first needed to remove dmraid with `sudo` `apt` `remove` `dmraid` and reboot; /dev/md0 then appeared, and I could mount this by configuring /etc/fstab.
 
-Uninstalling Stuff
-------------------
+
+## Uninstalling Stuff
 
 If you install something from the repositories and decide you don't want it, it's easy to completely uninstall with:
 
@@ -163,8 +184,8 @@ If you install something from a Personal Package Archive (PPA), manual removal t
 
 `sudo` `apt-get` `install` `ppa-purge` `sudo` `ppa-purge` <ppa-creator>`/`<ppa-name>
 
-Stuff I Don't Use
------------------
+
+## Stuff I Don't Use
 
 Apparently you can [integrate Google Drive with the Nautilus file manager via GVfs and Gnome Online Accounts](http://www.webupd8.org/2016/03/use-gnome-318-google-drive-integration.html), but I haven't played with it.
 
@@ -226,11 +247,9 @@ I prefer the default theme over the ARC theme, so I didn't use it:
     install the ARC theme for Firefox:
     http://www.omgubuntu.co.uk/2015/08/an-official-arc-theme-for-firefox-is-now-available
 
-References
-----------
+## References
 
-Bugs
-----
+### Bugs
 
 Fixing network-manager-openconnect in Ubuntu 16.04:
 
