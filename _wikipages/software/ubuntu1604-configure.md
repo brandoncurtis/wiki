@@ -26,7 +26,6 @@ Create custom application launcher icons for the current user by creating <appna
 
 This application is represented by `~/.local/share/icons/bc-d105.png` (note the lack of full path and file extension in the <appname>`.desktop` file) and when clicked, runs the script `trans-connect-d105` in the system $PATH (meaning, this script has executable permissions and is somewhere like <code>~/bin/
 
-<script>
 </code> so it can be executed in the terminal from any working directory just by typing the script's name, full or relative path needed). Add the application to your launcher by searching for them in the Unity dash and then dragging and dropping them to the launcher.
 
 To install an application for all users, instead put <appname>`.desktop` in `~/usr/share/applications/` and images for these icons in `/usr/share/pixmaps/`.
