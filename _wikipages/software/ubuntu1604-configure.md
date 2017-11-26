@@ -1,6 +1,9 @@
 ---
 title: Configuring Ubuntu 16.04 LTS
-permalink: "/Configuring_Ubuntu_16.04_LTS/"
+permalink: "p/ubuntu1604-configure"
+category: software
+layout: wikipage
+featured: true
 ---
 
 ## Software Installation
